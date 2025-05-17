@@ -1,0 +1,51 @@
+abandonment_stage,abandonment_reason,abandonment_timestamp,potential_revenue,recovery_attempt_made,recovered,abandoned_id,booking_id
+Payment,Price too high,2024-03-01 14:23,1250,1,0,1,103
+Itinerary Review,Found better deal,2024-03-02 09:12,980,1,0,2,107
+Personal Details,Privacy concerns,2024-03-03 18:45,1500,1,0,3,112
+Payment,Technical issue,2024-03-04 13:27,2100,1,1,4,115
+Booking Confirmation,Changed plans,2024-03-05 11:09,1750,1,0,5,118
+Payment,Card declined,2024-03-06 16:38,1300,1,1,6,121
+Itinerary Review,Date conflict,2024-03-07 10:54,2250,1,0,7,124
+Personal Details,Too complicated,2024-03-08 15:22,875,1,0,8,127
+Payment,Second thoughts,2024-03-09 19:43,1950,1,0,9,130
+Booking Confirmation,Emergency situation,2024-03-10 08:32,1650,0,0,10,133
+Payment,Budget constraints,2024-03-11 12:19,1200,1,0,11,136
+Itinerary Review,Not what expected,2024-03-12 17:27,2050,1,0,12,139
+Personal Details,Time constraints,2024-03-13 14:36,1850,1,0,13,142
+Payment,Found cheaper option,2024-03-14 11:52,950,1,0,14,145
+Booking Confirmation,Reconsidering destination,2024-03-15 16:28,1400,1,1,15,148
+Payment,Website timeout,2024-03-16 09:14,2200,1,0,16,151
+Itinerary Review,Missing activities,2024-03-17 13:47,1600,1,0,17,154
+Personal Details,Just browsing,2024-03-18 18:09,1350,0,0,18,157
+Payment,Currency exchange concerns,2024-03-19 15:23,1900,1,0,19,160
+Booking Confirmation,Weather concerns,2024-03-20 10:36,1450,1,0,20,163
+Payment,Changed mind,2024-03-21 14:48,2150,1,0,21,166
+Itinerary Review,Transport concerns,2024-03-22 09:25,1700,1,1,22,169
+Personal Details,Health issues,2024-03-23 16:39,1150,1,0,23,172
+Payment,Job situation changed,2024-03-24 11:57,2300,1,0,24,175
+Booking Confirmation,Family emergency,2024-03-25 17:12,1550,0,0,25,178
+Payment,Decided to postpone trip,2024-03-26 13:28,1050,1,0,26,181
+Itinerary Review,Accommodation concerns,2024-03-27 10:45,1800,1,0,27,184
+Personal Details,Passport expiration,2024-03-28 15:59,2400,1,1,28,187
+Payment,Partner disagreement,2024-03-29 12:17,1250,1,0,29,190
+Booking Confirmation,Work commitments,2024-03-30 18:34,1950,1,0,30,193
+Payment,Lost internet connection,2024-03-31 14:49,2050,1,0,31,196
+Itinerary Review,Safety concerns,2024-04-01 09:23,1500,1,0,32,199
+Personal Details,Visa issues,2024-04-02 16:38,1350,1,0,33,202
+Payment,Changed destination,2024-04-03 13:45,2250,1,1,34,205
+Booking Confirmation,Group size changed,2024-04-04 11:19,1650,1,0,35,208
+Payment,Unexpected expense,2024-04-05 17:52,900,1,0,36,211
+Itinerary Review,Accessibility concerns,2024-04-06 14:28,1750,1,0,37,214
+Personal Details,Language barrier fears,2024-04-07 10:37,2350,0,0,38,217
+Payment,Waiting for payday,2024-04-08 15:49,1150,1,1,39,220
+Booking Confirmation,Political situation,2024-04-09 12:23,1850,1,0,40,223
+Payment,Last minute doubts,2024-04-10 18:17,2150,1,0,41,226
+Itinerary Review,Food concerns,2024-04-11 16:38,1400,1,0,42,229
+Personal Details,Insurance questions,2024-04-12 11:54,950,1,0,43,232
+Payment,Researching alternatives,2024-04-13 14:29,2400,1,0,44,235
+Booking Confirmation,Medical advice,2024-04-14 09:42,1600,0,0,45,238
+Payment,Seasonal reconsideration,2024-04-15 17:15,1300,1,1,46,241
+Itinerary Review,Activity intensity,2024-04-16 13:28,1950,1,0,47,244
+Personal Details,Travel companion backed out,2024-04-17 10:37,2200,1,0,48,247
+Payment,Saving for something else,2024-04-18 15:46,1500,1,0,49,250
+Booking Confirmation,Waiting for reviews,2024-04-19 12:19,1750,1,0,50,253

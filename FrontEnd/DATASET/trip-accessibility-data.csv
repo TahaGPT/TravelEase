@@ -1,0 +1,51 @@
+feature_id,feature_type,feature_description,trip_id
+1,Mobility,Wheelchair accessible transportation throughout,103
+2,Mobility,Step-free access to all attractions,103
+3,Visual,Audio guides available for visually impaired travelers,103
+4,Hearing,Sign language interpreter available upon request,103
+5,Dietary,All meals accommodate special dietary requirements,105
+6,Mobility,Accessible hotel rooms with roll-in showers,105
+7,Mobility,Minimal walking required for main attractions,108
+8,Visual,Tactile experiences included in itinerary,108
+9,Mobility,Elevator access at all accommodation,110
+10,Mobility,Accessible bathroom facilities at all stops,110
+11,Mobility,Ground floor accommodation available,112
+12,Hearing,Written materials for all spoken presentations,112
+13,Dietary,Gluten-free options at all included meals,114
+14,Mobility,Transfer assistance between transportation,114
+15,Visual,Descriptive commentary for scenic areas,116
+16,Mobility,Adapted activities for limited mobility,116
+17,Hearing,Captioned videos for orientation sessions,118
+18,Mobility,Accessible paths at natural attractions,118
+19,Dietary,Nut-free environment guaranteed,120
+20,Mobility,Shorter walking routes available,120
+21,Visual,Large print materials available,121
+22,Mobility,Slow-paced itinerary with rest periods,121
+23,Hearing,Assistive listening devices provided,124
+24,Mobility,No stairs throughout the main itinerary,124
+25,Mobility,"Equipment rental (wheelchairs, scooters)",126
+26,Visual,Touch tours at museums and attractions,126
+27,Dietary,Diabetic-friendly meal options,128
+28,Mobility,Close drop-off points at all venues,128
+29,Hearing,Visual emergency alerts in accommodation,130
+30,Mobility,Accessible bathroom stops on all routes,130
+31,Visual,Staff trained in guiding visually impaired,132
+32,Mobility,Ramp access to all buildings,132
+33,Dietary,Lactose-free options at all meals,135
+34,Mobility,Grab bars in all bathrooms,135
+35,Hearing,Vibrating alarm clocks available,137
+36,Mobility,Low gradient walking paths,137
+37,Visual,Braille signage at key locations,139
+38,Dietary,Kosher meal options available,139
+39,Mobility,Accessible swimming pools with lifts,141
+40,Mobility,Level entrances to all buildings,141
+41,Hearing,Written itineraries for all verbal instructions,143
+42,Mobility,Accessible public transport guidance,143
+43,Visual,Permission for service animals,145
+44,Mobility,Accessible boat/cruise facilities,145
+45,Dietary,Halal food options at all meals,147
+46,Mobility,Firm surfaces on all walking paths,147
+47,Hearing,Visual safety briefings provided,149
+48,Mobility,Electric mobility scooter charging,149
+49,Visual,High contrast signage throughout,150
+50,Mobility,Accessible emergency evacuation plans,150

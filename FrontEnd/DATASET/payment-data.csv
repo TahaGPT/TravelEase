@@ -1,0 +1,51 @@
+payment_id,amount,payment_method,payment_status,is_refunded,payment_date,transaction_status,is_disputed,dispute_reason,transaction_id,payment_gateway,failure_reason,fraud_flag
+1,2499,Credit Card,Completed,0,2024-11-18,Success,0,"",TX7836451JKF98,"Stripe","",0
+2,3750,Debit Card,Completed,0,2024-10-15,Success,0,"",TX9847362HGF76,"PayPal","",0
+3,1890,PayPal,Completed,0,2024-12-03,Success,0,"",TX1265784KJY45,"PayPal","",0
+4,4200,Credit Card,Failed,0,2024-10-22,Failed,0,"",TX2574896LOI34,"Stripe","Insufficient funds",0
+5,2950,Bank Transfer,Completed,0,2025-01-07,Success,0,"",TX6541278PER23,"Bank Direct","",0
+6,1499,Credit Card,Completed,1,2025-02-14,Refunded,0,"",TX3652147TRE21,"Stripe","",0
+7,5300,Apple Pay,Completed,0,2024-11-29,Success,0,"",TX8796541UYT65,"Apple Pay","",0
+8,2799,Google Pay,Failed,0,2025-01-20,Failed,0,"",TX5478962QAZ13,"Google Pay","Payment declined",0
+9,3250,Credit Card,Completed,0,2025-02-05,Success,1,"Service not as described",TX6321457WER34,"Mastercard","",0
+10,1975,PayPal,Completed,0,2024-12-18,Success,0,"",TX9517538ASD98,"PayPal","",0
+11,4500,Credit Card,Failed,0,2025-01-12,Failed,0,"",TX7539514ZXC76,"Visa","Card expired",0
+12,2650,Debit Card,Completed,0,2024-10-30,Success,0,"",TX3214569FGH54,"Bank Direct","",0
+13,1850,Credit Card,Completed,1,2024-11-08,Refunded,0,"",TX9632587HJK32,"American Express","",0
+14,3999,Bank Transfer,Pending,0,2025-02-20,Pending,0,"",TX1478523RTY21,"Bank Direct","Processing delay",0
+15,2350,Apple Pay,Completed,0,2024-12-28,Success,0,"",TX7418529QWE67,"Apple Pay","",0
+16,5150,Credit Card,Completed,0,2025-01-30,Success,0,"",TX3698521TYU87,"Stripe","",0
+17,1725,PayPal,Failed,0,2024-11-05,Failed,0,"",TX8526341IOP45,"PayPal","Account issue",0
+18,4100,Google Pay,Completed,0,2024-10-17,Success,0,"",TX4569871KLM32,"Google Pay","",0
+19,2875,Credit Card,Completed,0,2025-02-11,Success,0,"",TX1237894BNM21,"Visa","",0
+20,3450,Debit Card,Completed,0,2024-12-14,Success,0,"",TX9874563UIO13,"Mastercard","",0
+21,1995,Credit Card,Failed,0,2025-01-23,Failed,0,"",TX5213647JHG54,"Stripe","Network error",0
+22,4750,Bank Transfer,Completed,0,2024-11-12,Success,0,"",TX3698521YTR76,"Bank Direct","",0
+23,2280,PayPal,Completed,0,2024-10-25,Success,0,"",TX7456328UYT32,"PayPal","",0
+24,3800,Apple Pay,Completed,1,2025-02-17,Refunded,0,"",TX2589637IOL43,"Apple Pay","",0
+25,1850,Credit Card,Completed,0,2024-12-07,Success,0,"",TX9632587QAZ87,"Mastercard","",0
+26,5500,Google Pay,Failed,0,2025-01-16,Failed,0,"",TX4563217WSX65,"Google Pay","Authorization failed",0
+27,2699,Credit Card,Completed,0,2024-11-25,Success,0,"",TX7845216EDC43,"Visa","",0
+28,3150,Debit Card,Completed,0,2024-10-29,Success,0,"",TX9512364RFV32,"American Express","",0
+29,1799,PayPal,Completed,0,2025-02-08,Success,0,"",TX6325814TGB21,"PayPal","",0
+30,4350,Bank Transfer,Pending,0,2024-12-21,Pending,0,"",TX3698521YHN67,"Bank Direct","Processing delay",0
+31,2495,Credit Card,Completed,0,2025-01-05,Success,0,"",TX7418529UJM87,"Stripe","",0
+32,3899,Apple Pay,Completed,0,2024-11-19,Success,0,"",TX2589637IKL65,"Apple Pay","",0
+33,1650,Google Pay,Failed,0,2024-10-27,Failed,0,"",TX8523697OLP45,"Google Pay","Payment timeout",0
+34,4950,Credit Card,Completed,0,2025-02-03,Success,0,"",TX3654128PLM32,"Mastercard","",0
+35,2099,Debit Card,Completed,0,2024-12-12,Success,0,"",TX9514726MJU21,"Visa","",0
+36,3600,PayPal,Completed,1,2025-01-27,Refunded,1,"Trip canceled due to weather",TX7532189ZXC13,"PayPal","",0
+37,1950,Bank Transfer,Completed,0,2024-11-03,Success,0,"",TX4563217CVB54,"Bank Direct","",0
+38,5250,Credit Card,Failed,0,2024-10-20,Failed,0,"",TX8521496BNM76,"Stripe","Fraud detection triggered",1
+39,2700,Apple Pay,Completed,0,2025-02-15,Success,0,"",TX6325814VBN32,"Apple Pay","",0
+40,3300,Google Pay,Completed,0,2024-12-05,Success,0,"",TX9514726FGH87,"Google Pay","",0
+41,1899,Credit Card,Completed,0,2025-01-10,Success,0,"",TX3698521JKL65,"American Express","",0
+42,4450,Debit Card,Failed,0,2024-11-28,Failed,0,"",TX7532189HJK43,"Mastercard","Network error",0
+43,2250,PayPal,Completed,0,2024-10-18,Success,0,"",TX4563217GFD21,"PayPal","",0
+44,3750,Bank Transfer,Completed,0,2025-02-01,Success,0,"",TX8521496DSA67,"Bank Direct","",0
+45,1799,Credit Card,Completed,0,2024-12-24,Success,0,"",TX6325814POI87,"Stripe","",0
+46,5100,Apple Pay,Completed,1,2025-01-19,Refunded,0,"",TX9514726LKJ65,"Apple Pay","",0
+47,2450,Google Pay,Failed,0,2024-11-10,Failed,0,"",TX3698521MNB45,"Google Pay","Authentication failed",0
+48,3850,Credit Card,Completed,0,2024-10-28,Success,0,"",TX7532189VCX32,"Visa","",0
+49,1975,Debit Card,Completed,0,2025-02-13,Success,0,"",TX4563217ZAQ21,"Mastercard","",0
+50,4270,PayPal,Pending,0,2024-12-31,Pending,0,"",TX8521496WSX13,"PayPal","Processing delay",0

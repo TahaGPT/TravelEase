@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease1\\travelease1\\travellerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|solutionrelative:travelease1\\travellerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease1\\travelease1\\travellerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|solutionrelative:travelease1\\travellerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease1\\travelease1\\digitaltravelpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|solutionrelative:travelease1\\digitaltravelpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease1\\travelease1\\digitaltravelpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|solutionrelative:travelease1\\digitaltravelpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease1\\travelease1\\travellerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|solutionrelative:travelease1\\travellerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease1\\travelease1\\profilesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|solutionrelative:travelease1\\profilesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease1\\travelease1\\profilesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|solutionrelative:travelease1\\profilesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease1\\travelease1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6DB5FF-A732-422F-ACEE-B16C7531FFFA}|TravelEase1\\TravelEase1.csproj|solutionrelative:travelease1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DigitalTravelPass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\DigitalTravelPass.cs",
+              "RelativeDocumentMoniker": "TravelEase1\\DigitalTravelPass.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\DigitalTravelPass.cs [Design]",
+              "RelativeToolTip": "TravelEase1\\DigitalTravelPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:25:12.239Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DigitalTravelPass.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\DigitalTravelPass.cs",
+              "RelativeDocumentMoniker": "TravelEase1\\DigitalTravelPass.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\DigitalTravelPass.cs",
+              "RelativeToolTip": "TravelEase1\\DigitalTravelPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:24:50.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\ProfileSetting.cs",
+              "RelativeDocumentMoniker": "TravelEase1\\ProfileSetting.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\ProfileSetting.cs",
+              "RelativeToolTip": "TravelEase1\\ProfileSetting.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAUwE0BAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:00:34.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TravellerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\TravellerDashboard.cs",
+              "RelativeDocumentMoniker": "TravelEase1\\TravellerDashboard.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\TravellerDashboard.cs",
+              "RelativeToolTip": "TravelEase1\\TravellerDashboard.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAjwIQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:42:05.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TravellerDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\TravellerDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "TravelEase1\\TravellerDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\TravellerDashboard.Designer.cs",
+              "RelativeToolTip": "TravelEase1\\TravellerDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:42:02.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TravellerDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\TravellerDashboard.cs",
+              "RelativeDocumentMoniker": "TravelEase1\\TravellerDashboard.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\TravellerDashboard.cs [Design]",
+              "RelativeToolTip": "TravelEase1\\TravellerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:35:36.657Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileSetting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\ProfileSetting.cs",
+              "RelativeDocumentMoniker": "TravelEase1\\ProfileSetting.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\ProfileSetting.cs [Design]",
+              "RelativeToolTip": "TravelEase1\\ProfileSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:00:47.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\Program.cs",
+              "RelativeDocumentMoniker": "TravelEase1\\Program.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase1\\TravelEase1\\Program.cs",
+              "RelativeToolTip": "TravelEase1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:44:01.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

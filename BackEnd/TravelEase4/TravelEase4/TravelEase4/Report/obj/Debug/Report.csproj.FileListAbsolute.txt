@@ -1,0 +1,17 @@
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 2\hmm\DBMS\Report\bin\Debug\Report.exe.config
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 2\hmm\DBMS\Report\bin\Debug\Report.exe
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 2\hmm\DBMS\Report\bin\Debug\Report.pdb
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 2\hmm\DBMS\Report\obj\Debug\Report.csproj.AssemblyReference.cache
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 2\hmm\DBMS\Report\obj\Debug\Report.Properties.Resources.resources
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 2\hmm\DBMS\Report\obj\Debug\Report.csproj.GenerateResource.cache
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 2\hmm\DBMS\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 2\hmm\DBMS\Report\obj\Debug\Report.exe
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 2\hmm\DBMS\Report\obj\Debug\Report.pdb
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 2\hmm\DBMS\Report\obj\Debug\Report.exe.config
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 1\hmm\hmm\DBMS\Report\obj\Debug\Report.csproj.AssemblyReference.cache
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 1\hmm\hmm\DBMS\Report\obj\Debug\Report.exe.config
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 1\hmm\hmm\DBMS\Report\obj\Debug\Report.Properties.Resources.resources
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 1\hmm\hmm\DBMS\Report\obj\Debug\Report.csproj.GenerateResource.cache
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 1\hmm\hmm\DBMS\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 1\hmm\hmm\DBMS\Report\obj\Debug\Report.exe
+C:\Users\Khalil Abbasi\Desktop\DBMS\Milestone 1\hmm\hmm\DBMS\Report\obj\Debug\Report.pdb

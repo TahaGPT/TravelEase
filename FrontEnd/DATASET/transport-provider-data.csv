@@ -1,0 +1,51 @@
+transport_id,transport_type,fleet_size,license_details,capacity_per_vehicle,provider_id
+1,Bus,12,Commercial Transport License #TL-78345-B,45,1
+2,Van,8,Commercial Vehicle License #CV-56721-V,15,4
+3,Jeep,15,Safari Vehicle License #SV-89234-J,8,7
+4,Ferry,5,Maritime Transport License #MT-34589-F,120,16
+5,Helicopter,3,Aviation License #AL-67812-H,6,25
+6,Limousine,10,Luxury Transport License #LT-23967-L,4,19
+7,Train,2,Railway Operator License #RO-78345-T,200,22
+8,Classic Car,18,Vintage Vehicle License #VV-45673-C,4,28
+9,Shuttle,25,Airport Transfer License #AT-89012-S,12,31
+10,Helicopter,2,Aviation License #AL-56734-H,8,34
+11,Yacht,7,Maritime Charter License #MC-23187-Y,15,37
+12,Safari Vehicle,22,Wildlife Park Access License #WP-78345-S,10,40
+13,Steam Train,1,Heritage Railway License #HR-56289-S,150,43
+14,Electric Car,15,Green Transport License #GT-34895-E,5,46
+15,Mountain Bike,40,Adventure Tour License #AT-67134-M,1,49
+16,Bus,8,Tour Operator License #TO-23489-B,50,1
+17,Water Taxi,12,Coastal Transport License #CT-78912-W,20,4
+18,Dune Buggy,20,Desert Vehicle License #DV-34587-D,4,7
+19,Luxury Boat,6,Harbor Tour License #HT-67823-L,25,16
+20,Private Jet,1,Charter Flight License #CF-34289-P,12,25
+21,Executive Car,15,Corporate Transport License #CT-78563-E,3,19
+22,High-Speed Rail,3,Express Transport License #ET-12893-H,180,22
+23,Convertible,12,Scenic Drive License #SD-78345-C,2,28
+24,Airport Limo,18,Terminal Access License #TA-45632-A,4,31
+25,Seaplane,3,Water Landing License #WL-89723-S,5,34
+26,Catamaran,5,Luxury Sailing License #LS-23478-C,30,37
+27,Off-Road Vehicle,25,National Park Access License #NP-67345-O,6,40
+28,Heritage Tram,4,City Tour License #CT-89012-H,40,43
+29,Tesla Fleet,20,Premium EV License #PE-45678-T,5,46
+30,Guided Cycling,50,City Access License #CA-78234-G,1,49
+31,Minibus,15,Group Transport License #GT-34567-M,22,1
+32,Speedboat,8,Marine Tour License #MT-78456-S,15,4
+33,ATV,30,Adventure Trail License #AT-23789-A,2,7
+34,Glass-Bottom Boat,4,Marine Observation License #MO-67845-G,30,16
+35,Hot Air Balloon,5,Aerial Tour License #AT-23489-H,10,25
+36,Party Bus,6,Entertainment Vehicle License #EV-78345-P,30,19
+37,Sleeper Train,1,Overnight Transport License #OT-34589-S,120,22
+38,Antique Car,10,Historical Vehicle License #HV-67823-A,3,28
+39,VIP Transfer,20,Premium Service License #PS-23498-V,6,31
+40,Helicopter Tour,4,Scenic Flight License #SF-78456-H,8,34
+41,Sailing Yacht,3,Blue Water License #BW-34521-S,12,37
+42,Wildlife Viewing Van,18,Conservation Area License #CA-67823-W,12,40
+43,Mountain Railway,2,Alpine Transport License #AT-23498-M,100,43
+44,Solar-Powered Bus,10,Eco-Tour License #ET-78345-S,35,46
+45,Downhill Biking,35,Mountain Trail License #MT-34789-D,1,49
+46,Double-Decker Bus,5,City Sightseeing License #CS-67823-D,70,1
+47,River Cruise Boat,3,Inland Waterway License #IW-23145-R,60,4
+48,Desert Expedition Truck,8,Remote Area License #RA-78345-D,15,7
+49,Island Hopper Boat,10,Multi-Port License #MP-34589-I,25,16
+50,Night Sky Helicopter,2,Evening Tour License #ET-67823-N,6,25

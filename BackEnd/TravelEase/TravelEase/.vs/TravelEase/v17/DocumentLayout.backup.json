@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D8BC07-D9B0-4420-A280-C6CC69A9F4F1}|TravelEase\\TravelEase.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease\\travelease\\hotelproviderdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D8BC07-D9B0-4420-A280-C6CC69A9F4F1}|TravelEase\\TravelEase.csproj|solutionrelative:travelease\\hotelproviderdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D8BC07-D9B0-4420-A280-C6CC69A9F4F1}|TravelEase\\TravelEase.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease\\travelease\\hotelproviderdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27D8BC07-D9B0-4420-A280-C6CC69A9F4F1}|TravelEase\\TravelEase.csproj|solutionrelative:travelease\\hotelproviderdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D8BC07-D9B0-4420-A280-C6CC69A9F4F1}|TravelEase\\TravelEase.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease\\travelease\\hotelproviderdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D8BC07-D9B0-4420-A280-C6CC69A9F4F1}|TravelEase\\TravelEase.csproj|solutionrelative:travelease\\hotelproviderdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D8BC07-D9B0-4420-A280-C6CC69A9F4F1}|TravelEase\\TravelEase.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease\\travelease\\servicelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D8BC07-D9B0-4420-A280-C6CC69A9F4F1}|TravelEase\\TravelEase.csproj|solutionrelative:travelease\\servicelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D8BC07-D9B0-4420-A280-C6CC69A9F4F1}|TravelEase\\TravelEase.csproj|c:\\users\\khalil abbasi\\desktop\\dbms\\travelease\\travelease\\servicelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27D8BC07-D9B0-4420-A280-C6CC69A9F4F1}|TravelEase\\TravelEase.csproj|solutionrelative:travelease\\servicelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceListing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\TravelEase\\ServiceListing.cs",
+              "RelativeDocumentMoniker": "TravelEase\\ServiceListing.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\TravelEase\\ServiceListing.cs [Design]",
+              "RelativeToolTip": "TravelEase\\ServiceListing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:39:46.941Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceListing.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\TravelEase\\ServiceListing.cs",
+              "RelativeDocumentMoniker": "TravelEase\\ServiceListing.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\TravelEase\\ServiceListing.cs",
+              "RelativeToolTip": "TravelEase\\ServiceListing.cs",
+              "ViewState": "AgIAAFUDAAAAAAAAAAAAAFMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:38:55.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelProviderDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\TravelEase\\HotelProviderDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "TravelEase\\HotelProviderDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\TravelEase\\HotelProviderDashboard.Designer.cs",
+              "RelativeToolTip": "TravelEase\\HotelProviderDashboard.Designer.cs",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAAAL0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:31:29.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelProviderDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\TravelEase\\HotelProviderDashboard.cs",
+              "RelativeDocumentMoniker": "TravelEase\\HotelProviderDashboard.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\TravelEase\\HotelProviderDashboard.cs [Design]*",
+              "RelativeToolTip": "TravelEase\\HotelProviderDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:12:02.806Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelProviderDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\TravelEase\\HotelProviderDashboard.cs",
+              "RelativeDocumentMoniker": "TravelEase\\HotelProviderDashboard.cs",
+              "ToolTip": "C:\\Users\\Khalil Abbasi\\Desktop\\DBMS\\TravelEase\\TravelEase\\HotelProviderDashboard.cs*",
+              "RelativeToolTip": "TravelEase\\HotelProviderDashboard.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAlwCIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:13:15.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

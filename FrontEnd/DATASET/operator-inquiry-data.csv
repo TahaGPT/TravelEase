@@ -1,0 +1,51 @@
+inquiry_id,inquiry_text,inquiry_timestamp,response_text,response_timestamp,is_resolved,traveler_id,operator_id
+1,Do you offer any discounts for groups of 6 or more?,2024-03-01 09:15,"Yes, we offer a 10% discount for groups of 6 or more. Please mention your group size when booking.",2024-03-01 11:32,1,23,5
+2,What is your cancellation policy?,2024-03-01 10:27,"Our standard policy allows cancellation up to 30 days before departure for a full refund, and 50% refund up to 14 days before.",2024-03-01 13:45,1,45,8
+3,Can you accommodate vegetarian diets?,2024-03-01 14:39,"Yes, we cater to vegetarian diets on all our trips. Please note your dietary requirements during booking.",2024-03-01 16:23,1,12,3
+4,Is the hiking tour suitable for beginners?,2024-03-02 08:52,"Yes, our Alpine Experience tour is rated as moderate and suitable for beginners with reasonable fitness levels.",2024-03-02 11:17,1,67,7
+5,Do I need a visa for this destination?,2024-03-02 12:35,Visa requirements depend on your nationality. Please check with the embassy or consulate of your destination country.,2024-03-02 15:28,1,34,11
+6,Are flights included in the package?,2024-03-03 09:11,"No, our packages do not include international flights, but we can help arrange these for an additional fee.",2024-03-03 11:43,1,78,14
+7,Is there Wi-Fi at the accommodations?,2024-03-03 13:24,"All our listed accommodations offer Wi-Fi in common areas, though connection speeds may vary in remote locations.",2024-03-03 15:59,1,15,5
+8,Can I bring my child along?,2024-03-04 10:08,This particular tour is designed for adults and teenagers 16+. We have family-specific tours that might better suit your needs.,2024-03-04 13:22,1,43,8
+9,What is the average group size?,2024-03-04 14:37,"Our average group size is 8-12 people, with a maximum of 16 on our standard tours.",2024-03-05 09:14,1,29,3
+10,Can I book additional nights before/after the tour?,2024-03-05 11:29,"Yes, we can arrange pre and post-tour accommodation at our partner hotels. Please request this during booking.",2024-03-05 14:56,1,56,7
+11,Do you provide airport transfers?,2024-03-06 08:47,"Yes, complimentary airport transfers are included on the first and last day of the tour within specified time windows.",2024-03-06 11:32,1,31,11
+12,Is travel insurance included?,2024-03-06 13:15,Travel insurance is not included in the tour price. We strongly recommend purchasing comprehensive travel insurance.,2024-03-06 15:48,1,72,14
+13,What currency should I bring?,2024-03-07 09:23,Local currency is recommended for small purchases. Major credit cards are widely accepted in tourist areas.,2024-03-07 12:05,1,19,5
+14,Are there laundry facilities available?,2024-03-07 14:36,"Most hotels offer laundry services for an additional fee. For longer stays, we schedule stops where laundry is possible.",2024-03-08 09:27,1,61,8
+15,Can you accommodate my food allergy?,2024-03-08 11:49,"Yes, we can accommodate food allergies with advance notice. Please detail your specific allergies during booking.",2024-03-08 14:57,1,27,3
+16,What type of transportation is used?,2024-03-09 08:15,"We use a combination of private minivans, public transport, and domestic flights depending on the itinerary.",2024-03-09 11:28,1,48,7
+17,Do I need special vaccinations?,2024-03-09 13:34,Vaccination requirements vary by destination. We recommend consulting with a travel medicine specialist before your trip.,2024-03-09 16:45,1,39,11
+18,Is there a single supplement fee?,2024-03-10 09:57,"Yes, there is a single supplement fee of $450 if you prefer not to share accommodation with another traveler.",2024-03-10 12:19,1,53,14
+19,What is the baggage allowance?,2024-03-10 14:28,We recommend one medium suitcase/backpack (20kg max) and one daypack per person due to space limitations in vehicles.,2024-03-11 09:36,1,14,5
+20,Are tips included in the price?,2024-03-11 11:45,Tips are not included in the tour price. We provide tipping guidelines in our pre-departure information.,2024-03-11 14:57,1,65,8
+21,Can I extend my stay at the same hotel?,2024-03-12 08:19,"Yes, subject to availability. We can help arrange this at our contracted rates if requested in advance.",2024-03-12 11:34,1,22,3
+22,Do you offer private tours?,2024-03-12 13:42,"Yes, most of our itineraries can be arranged as private departures for an additional fee.",2024-03-12 16:15,1,41,7
+23,What is the weather like during this period?,2024-03-13 09:27,April-May is spring season with mild temperatures (15-25°C) and occasional rain showers.,2024-03-13 12:38,1,59,11
+24,How physically demanding is this tour?,2024-03-13 14:49,This tour is rated moderate with walking on uneven terrain for 3-4 hours per day and one day with a 6-hour hike.,2024-03-14 09:15,1,16,14
+25,Are there any age restrictions?,2024-03-14 11:28,"This tour requires a minimum age of 14 years. There's no upper age limit, but a good level of fitness is needed.",2024-03-14 14:36,1,73,5
+26,Is there free time built into the itinerary?,2024-03-15 08:47,"Yes, we include free time in each location for personal exploration or optional activities.",2024-03-15 11:23,1,35,8
+27,What power adapters should I bring?,2024-03-15 13:39,The destination uses Type C electrical outlets. A universal adapter is recommended for international travelers.,2024-03-15 16:54,1,52,3
+28,Can I drink the tap water?,2024-03-16 09:26,"We recommend drinking bottled water, which will be readily available throughout the tour.",2024-03-16 12:37,1,68,7
+29,Do you offer any photography-focused tours?,2024-03-16 14:42,"Yes, we have specialized photography tours led by professional photographers to several destinations.",2024-03-17 09:16,1,24,11
+30,What's the dress code for included dinners?,2024-03-17 11:29,Smart casual is appropriate for most included dinners. One farewell dinner at a upscale restaurant requires more formal attire.,2024-03-17 14:42,1,47,14
+31,Can I charge my electronics during the trek?,2024-03-18 08:35,"Charging facilities are available at overnight accommodation, though may be limited in more remote teahouses.",2024-03-18 11:47,1,63,5
+32,Do you provide a packing list?,2024-03-18 13:52,"Yes, a detailed packing list will be sent with your confirmation documents after booking.",2024-03-18 16:19,1,18,8
+33,Can I book additional activities during the tour?,2024-03-19 09:23,"Yes, your tour guide can help arrange additional activities during free time, subject to availability.",2024-03-19 12:35,1,57,3
+34,Is there a doctor on the tour?,2024-03-19 14:27,"No, but our guides are first-aid trained, and we operate in areas with access to medical facilities.",2024-03-20 09:42,1,32,7
+35,What happens if I miss the welcome meeting?,2024-03-20 11:56,Please inform us in advance. You'll need to make your own way to the first accommodation where you can meet the group.,2024-03-20 14:18,1,76,11
+36,Can you accommodate my mobility issues?,2024-03-21 08:34,This particular tour involves significant walking on uneven terrain. We have alternative tours designed for travelers with limited mobility.,2024-03-21 11:45,1,21,14
+37,Are entrance fees included?,2024-03-21 13:59,"Yes, all entrance fees mentioned in the itinerary are included in the tour price.",2024-03-22 09:27,1,49,5
+38,What's your policy on sustainable tourism?,2024-03-22 11:34,"We follow sustainable practices including carbon offsetting, plastic waste reduction, and supporting local communities.",2024-03-22 14:46,1,64,8
+39,Do your guides speak English?,2024-03-23 08:19,"Yes, all our guides are fluent in English and the local language of the destination.",2024-03-23 11:28,1,28,3
+40,How much spending money should I bring?,2024-03-23 13:42,"We recommend $25-40 per day for additional meals, drinks, souvenirs, and optional activities not included in the itinerary.",2024-03-23 16:57,1,71,7
+41,Is there a dress code for religious sites?,2024-03-24 09:34,"Yes, modest dress covering shoulders and knees is required. Head coverings for women are necessary at some sites.",2024-03-24 12:45,1,33,11
+42,Can I opt out of certain activities?,2024-03-24 14:29,"Yes, activities are optional, though no refund is provided for unused services.",2024-03-25 09:18,1,55,14
+43,What's the level of comfort of accommodations?,2024-03-25 11:27,This tour uses 3-4 star hotels with en-suite facilities in cities and comfortable guesthouses in rural areas.,2024-03-25 14:38,1,17,5
+44,Do you offer any student discounts?,2024-03-26 08:44,"Yes, we offer a 5% discount for students with valid ID. Please mention this during booking.",2024-03-26 11:56,1,69,8
+45,Are there any hidden costs?,2024-03-26 13:15,"No hidden costs. Optional activities, personal expenses, and items not mentioned in inclusions are extra.",2024-03-26 16:27,1,42,3
+46,How far in advance should I book?,2024-03-27 09:29,"We recommend booking 3-6 months in advance for popular destinations, especially during high season.",2024-03-27 12:37,1,58,7
+47,Can I get a private room?,2024-03-27 14:48,"Yes, private rooms are available for a single supplement fee, subject to availability.",2024-03-28 09:16,1,25,11
+48,What happens in case of flight delays?,2024-03-28 11:29,Please contact our emergency number. We'll arrange alternative transfers and adjust your itinerary as needed.,2024-03-28 14:37,1,74,14
+49,Do you carbon offset your trips?,2024-03-29 08:45,"Yes, we carbon offset all of our trips through verified carbon offset programs included in the trip cost.",2024-03-29 11:56,1,36,5
+50,Can I change my booking dates?,2024-03-29 13:19,Date changes are possible subject to availability and may incur a fee if made less than 60 days before departure.,2024-03-29 16:28,1,51,8

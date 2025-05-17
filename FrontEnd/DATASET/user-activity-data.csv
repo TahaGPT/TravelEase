@@ -1,0 +1,51 @@
+activity_id,user_id,user_type,activity_type,timestamp,page_viewed,session_id,traveler_id,operator_id
+1,23,Traveler,Search,01-03-24 14:23,search_results,sess_45678912,23,1
+2,45,Traveler,View Trip,01-03-24 15:37,trip_details,sess_45679013,45,1
+3,12,Traveler,Add to Wishlist,01-03-24 16:42,trip_details,sess_45679124,12,1
+4,17,Traveler,Begin Booking,01-03-24 17:53,booking_form,sess_45679235,17,1
+5,34,Traveler,Abandon Booking,01-03-24 18:29,payment_page,sess_45679346,34,1
+6,5,Operator,Update Trip,01-03-24 19:37,operator_dashboard,sess_45679457,1,6
+7,28,Traveler,Complete Booking,02-03-24 8:47,booking_confirmation,sess_45679568,78,1
+8,15,Traveler,Leave Review,02-03-24 9:58,review_form,sess_45679679,15,1
+9,43,Traveler,View Profile,02-03-24 10:34,user_profile,sess_45679780,43,1
+10,8,Operator,Respond to Inquiry,02-03-24 11:43,operator_messages,sess_45679891,1,9
+11,29,Traveler,Login,02-03-24 13:25,homepage,sess_45680002,29,1
+12,6,Traveler,Search,02-03-24 14:36,search_results,sess_45680113,6,1
+13,3,Operator,Create Trip,02-03-24 15:47,trip_creation,sess_45680224,1,4
+14,31,Traveler,View Wishlist,02-03-24 16:58,wishlist,sess_45680335,31,1
+15,22,Traveler,Remove from Wishlist,02-03-24 17:32,wishlist,sess_45680446,22,1
+16,19,Traveler,Filter Search,03-03-24 9:12,search_results,sess_45680557,19,1
+17,7,Operator,Manage Bookings,03-03-24 10:23,booking_management,sess_45680668,1,8
+18,11,Traveler,View Reviews,03-03-24 11:34,trip_reviews,sess_45680779,11,1
+19,27,Traveler,Share Trip,03-03-24 13:45,trip_details,sess_45680880,27,1
+20,11,Operator,Update Profile,03-03-24 14:56,operator_profile,sess_45680991,1,12
+21,48,Traveler,Update Preferences,03-03-24 16:07,user_preferences,sess_45681102,48,1
+22,39,Traveler,View Bookings,04-03-24 8:18,user_bookings,sess_45681213,39,1
+23,14,Operator,Respond to Review,04-03-24 9:29,review_management,sess_45681324,1,15
+24,3,Traveler,Cancel Booking,04-03-24 10:40,booking_management,sess_45681435,3,1
+25,9,Operator,Generate Report,04-03-24 11:51,analytics,sess_45681546,1,10
+26,14,Traveler,Contact Support,04-03-24 13:02,help_center,sess_45681657,14,1
+27,15,Traveler,Email Subscription,04-03-24 14:13,user_profile,sess_45681768,15,1
+28,22,Traveler,View Itinerary,05-03-24 8:24,trip_itinerary,sess_45681879,22,1
+29,17,Operator,Update Availability,05-03-24 9:35,inventory_management,sess_45681980,1,18
+30,41,Traveler,Compare Trips,05-03-24 10:46,trip_comparison,sess_45682091,41,1
+31,9,Traveler,Download Pass,05-03-24 11:57,digital_pass,sess_45682102,9,1
+32,16,Traveler,Password Reset,05-03-24 13:08,account_security,sess_45682213,16,1
+33,21,Operator,Process Refund,05-03-24 14:19,payment_management,sess_45682324,1,22
+34,23,Traveler,Apply Filter,06-03-24 8:30,search_results,sess_45682435,23,1
+35,35,Traveler,Sort Results,06-03-24 9:41,search_results,sess_45682546,35,1
+36,28,Operator,Upload Photos,06-03-24 10:52,trip_management,sess_45682657,1,29
+37,2,Traveler,Submit Inquiry,06-03-24 12:04,contact_form,sess_45682768,2,1
+38,18,Traveler,Browse Categories,06-03-24 13:15,categories_page,sess_45682879,18,1
+39,24,Traveler,Read Blog,06-03-24 14:26,blog_post,sess_45682980,24,1
+40,32,Operator,Send Promotion,07-03-24 8:37,marketing_tools,sess_45683091,1,33
+41,47,Traveler,Use Promo Code,07-03-24 9:48,checkout,sess_45683102,47,1
+42,13,Traveler,Rate Experience,07-03-24 10:59,review_form,sess_45683213,13,1
+43,13,Operator,Schedule Maintenance,07-03-24 12:10,system_admin,sess_45683324,1,14
+44,18,Traveler,Update Payment,07-03-24 13:21,payment_methods,sess_45683435,18,1
+45,7,Traveler,Check Notification,07-03-24 14:32,notifications,sess_45683546,7,1
+46,32,Traveler,View Map,08-03-24 8:43,trip_map,sess_45683657,32,1
+47,19,Operator,Chat Support,08-03-24 9:54,live_support,sess_45683768,1,20
+48,26,Traveler,Language Change,08-03-24 11:06,settings,sess_45683879,26,1
+49,21,Traveler,Currency Change,08-03-24 12:17,settings,sess_45683980,21,1
+50,25,Operator,Process Booking,08-03-24 13:28,booking_management,sess_45684091,1,26

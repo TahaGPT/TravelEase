@@ -1,0 +1,51 @@
+keyword_id,keyword,trip_id
+1,"Thailand",101
+2,"temples",101
+3,"cooking",101
+4,"markets",101
+5,"Italy",102
+6,"vatican",102
+7,"colosseum",102
+8,"renaissance",102
+9,"Peru",103
+10,"machu picchu",103
+11,"inca",103
+12,"hiking",103
+13,"Japan",104
+14,"Tokyo",104
+15,"Hakone",104
+16,"onsen",104
+17,"South Africa",105
+18,"Cape Town",105
+19,"wine tasting",105
+20,"safari",105
+21,"Iceland",106
+22,"northern lights",106
+23,"geysers",106
+24,"waterfalls",106
+25,"Morocco",107
+26,"desert",107
+27,"medina",107
+28,"cuisine",107
+29,"Australia",108
+30,"Sydney",108
+31,"beach",108
+32,"opera house",108
+33,"Tanzania",109
+34,"Serengeti",109
+35,"wildlife",109
+36,"big five",109
+37,"Netherlands",110
+38,"Amsterdam",110
+39,"canals",110
+40,"cycling",110
+41,"USA",111
+42,"New York",111
+43,"Manhattan",111
+44,"skyline",111
+45,"Cuba",112
+46,"Havana",112
+47,"music",112
+48,"classic cars",112
+49,"Greece",113
+50,"Santorini",113

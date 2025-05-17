@@ -1,0 +1,51 @@
+itinerary_id,day_number,location,activity_description,start_time,end_time,accommodation_details,trip_id
+1,1,"Bangkok, Thailand","City temple tour and river cruise","2024-06-01 09:00:00","2024-06-01 17:00:00","Riverside Luxury Hotel - Deluxe Room",101
+2,2,"Bangkok, Thailand","Floating market excursion and cooking class","2024-06-02 08:00:00","2024-06-02 16:00:00","Riverside Luxury Hotel - Deluxe Room",101
+3,3,"Chiang Mai, Thailand","Travel to Chiang Mai, evening market visit","2024-06-03 10:00:00","2024-06-03 20:00:00","Boutique Mountain Resort - Garden Villa",101
+4,1,"Rome, Italy","Colosseum and Roman Forum guided tour","2024-07-15 09:00:00","2024-07-15 17:00:00","Historic Center Hotel - Superior Room",102
+5,2,"Rome, Italy","Vatican Museum, Sistine Chapel, and St. Peter's Basilica","2024-07-16 08:30:00","2024-07-16 15:30:00","Historic Center Hotel - Superior Room",102
+6,3,"Florence, Italy","Train to Florence, Uffizi Gallery visit","2024-07-17 09:00:00","2024-07-17 18:00:00","Renaissance Palazzo Hotel - Classic Room",102
+7,1,"Cusco, Peru","City tour and acclimatization","2024-08-10 10:00:00","2024-08-10 15:00:00","Colonial Mansion Hotel - Standard Room",103
+8,2,"Sacred Valley, Peru","Sacred Valley tour with local communities","2024-08-11 08:00:00","2024-08-11 17:00:00","Valley Eco-Lodge - Mountain View Room",103
+9,3,"Machu Picchu, Peru","Machu Picchu guided exploration","2024-08-12 06:00:00","2024-08-12 14:00:00","Machu Picchu Town Hotel - Deluxe Room",103
+10,1,"Tokyo, Japan","Arrival, Shibuya crossing and welcome dinner","2024-09-05 14:00:00","2024-09-05 21:00:00","Modern City Hotel - Standard Room",104
+11,2,"Tokyo, Japan","Tsukiji market, imperial palace gardens","2024-09-06 07:00:00","2024-09-06 17:00:00","Modern City Hotel - Standard Room",104
+12,3,"Hakone, Japan","Travel to Hakone, onsen experience","2024-09-07 09:00:00","2024-09-07 18:00:00","Traditional Ryokan - Tatami Room",104
+13,1,"Cape Town, South Africa","Table Mountain cable car, waterfront exploration","2024-05-20 09:00:00","2024-05-20 18:00:00","Waterfront Luxury Hotel - Deluxe Room",105
+14,2,"Cape Town, South Africa","Cape Peninsula tour, penguin colony visit","2024-05-21 08:00:00","2024-05-21 17:00:00","Waterfront Luxury Hotel - Deluxe Room",105
+15,3,"Stellenbosch, South Africa","Winelands tour with tastings","2024-05-22 09:30:00","2024-05-22 16:30:00","Vineyard Estate - Garden Cottage",105
+16,1,"Reykjavik, Iceland","City tour, Blue Lagoon experience","2024-06-15 10:00:00","2024-06-15 18:00:00","Modern Design Hotel - Standard Room",106
+17,2,"South Coast, Iceland","Waterfalls and black sand beaches","2024-06-16 08:00:00","2024-06-16 19:00:00","Countryside Guesthouse - Private Room",106
+18,3,"Golden Circle, Iceland","Geysers, national park, and geothermal areas","2024-06-17 08:30:00","2024-06-17 17:30:00","Eco Farm Hotel - Mountain View Room",106
+19,1,"Marrakech, Morocco","Medina tour, souk exploration","2024-10-10 09:00:00","2024-10-10 17:00:00","Traditional Riad - Standard Room",107
+20,2,"Marrakech, Morocco","Cooking class, Majorelle Gardens","2024-10-11 10:00:00","2024-10-11 16:00:00","Traditional Riad - Standard Room",107
+21,3,"Atlas Mountains, Morocco","Day trip to Berber villages","2024-10-12 08:00:00","2024-10-12 18:00:00","Mountain Kasbah - Deluxe Room",107
+22,1,"Sydney, Australia","Harbor Bridge climb, Opera House tour","2024-11-05 10:00:00","2024-11-05 17:00:00","Harbor View Hotel - Superior Room",108
+23,2,"Sydney, Australia","Bondi Beach, coastal walk","2024-11-06 09:00:00","2024-11-06 16:00:00","Harbor View Hotel - Superior Room",108
+24,3,"Blue Mountains, Australia","Day trip to Blue Mountains National Park","2024-11-07 08:00:00","2024-11-07 19:00:00","Mountain Lodge - Forest View Room",108
+25,1,"Serengeti, Tanzania","Game drive, wildlife spotting","2024-07-20 06:00:00","2024-07-20 18:00:00","Luxury Safari Camp - Tent Suite",109
+26,2,"Serengeti, Tanzania","Full day safari experience","2024-07-21 05:30:00","2024-07-21 19:00:00","Luxury Safari Camp - Tent Suite",109
+27,3,"Ngorongoro Crater, Tanzania","Crater floor game drive","2024-07-22 06:00:00","2024-07-22 17:00:00","Crater Rim Lodge - Deluxe Room",109
+28,1,"Amsterdam, Netherlands","Canal cruise, Van Gogh Museum","2024-08-15 10:00:00","2024-08-15 17:00:00","Canal House Hotel - Standard Room",110
+29,2,"Amsterdam, Netherlands","Bike tour, Anne Frank House","2024-08-16 09:00:00","2024-08-16 16:00:00","Canal House Hotel - Standard Room",110
+30,3,"Dutch Countryside","Windmills tour, cheese tasting","2024-08-17 08:30:00","2024-08-17 17:30:00","Countryside B&B - Classic Room",110
+31,1,"New York City, USA","Manhattan highlights walking tour","2024-09-20 09:00:00","2024-09-20 17:00:00","Midtown Hotel - Deluxe Room",111
+32,2,"New York City, USA","Central Park, Metropolitan Museum","2024-09-21 10:00:00","2024-09-21 18:00:00","Midtown Hotel - Deluxe Room",111
+33,3,"New York City, USA","Brooklyn Bridge, DUMBO neighborhood","2024-09-22 09:30:00","2024-09-22 16:30:00","Midtown Hotel - Deluxe Room",111
+34,1,"Havana, Cuba","Old Havana walking tour, classic car ride","2024-10-15 09:00:00","2024-10-15 17:00:00","Colonial Mansion - Standard Room",112
+35,2,"Havana, Cuba","Art and culture day, salsa lesson","2024-10-16 10:00:00","2024-10-16 18:00:00","Colonial Mansion - Standard Room",112
+36,3,"Viñales Valley, Cuba","Tobacco farm visit, valley hiking","2024-10-17 08:00:00","2024-10-17 19:00:00","Country Farmhouse - Private Room",112
+37,1,"Santorini, Greece","Arrival, Oia sunset viewing","2024-06-01 14:00:00","2024-06-01 21:00:00","Cliffside Suite - Sea View",113
+38,2,"Santorini, Greece","Catamaran cruise, volcanic hot springs","2024-06-02 10:00:00","2024-06-02 18:00:00","Cliffside Suite - Sea View",113
+39,3,"Santorini, Greece","Wine tour, ancient Akrotiri ruins","2024-06-03 09:00:00","2024-06-03 17:00:00","Cliffside Suite - Sea View",113
+40,1,"Hanoi, Vietnam","Old Quarter exploration, water puppet show","2024-11-10 09:00:00","2024-11-10 18:00:00","Colonial Boutique Hotel - Deluxe Room",114
+41,2,"Halong Bay, Vietnam","Overnight bay cruise, kayaking","2024-11-11 08:00:00","2024-11-12 10:00:00","Luxury Cruise Boat - Ocean View Cabin",114
+42,3,"Hanoi, Vietnam","Return to Hanoi, cooking class","2024-11-12 13:00:00","2024-11-12 19:00:00","Colonial Boutique Hotel - Deluxe Room",114
+43,1,"Kyoto, Japan","Temple tour, traditional tea ceremony","2024-07-05 09:00:00","2024-07-05 17:00:00","Traditional Machiya - Garden Room",115
+44,2,"Kyoto, Japan","Arashiyama bamboo grove, monkey park","2024-07-06 08:30:00","2024-07-06 16:30:00","Traditional Machiya - Garden Room",115
+45,3,"Nara, Japan","Day trip to Nara, deer park visit","2024-07-07 09:00:00","2024-07-07 18:00:00","Traditional Machiya - Garden Room",115
+46,1,"Barcelona, Spain","Sagrada Familia, Gothic Quarter","2024-08-20 09:30:00","2024-08-20 17:30:00","Modernist Hotel - City View Room",116
+47,2,"Barcelona, Spain","Park Güell, tapas tour","2024-08-21 10:00:00","2024-08-21 19:00:00","Modernist Hotel - City View Room",116
+48,3,"Montserrat, Spain","Mountain monastery day trip","2024-08-22 08:00:00","2024-08-22 18:00:00","Mountain Retreat - Standard Room",116
+49,1,"Cairo, Egypt","Pyramids of Giza, Sphinx","2024-09-15 08:00:00","2024-09-15 16:00:00","Pyramid View Hotel - Deluxe Room",117
+50,2,"Cairo, Egypt","Egyptian Museum, Khan el-Khalili bazaar","2024-09-16 09:00:00","2024-09-16 17:00:00","Pyramid View Hotel - Deluxe Room",117

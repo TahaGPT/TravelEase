@@ -1,0 +1,51 @@
+provider_id,name,service_type,is_available,Phone,is_approved,Registration_date
+1,Alpine Adventures,Transport,1,+44-7890-123456,1,2023-06-12
+2,Luxury Stay Hotels,Accommodation,1,+1-212-555-7890,1,2023-02-25
+3,Urban Explorers,Guide,1,+61-4-1234-5678,1,2023-09-08
+4,Sea Breeze Transports,Transport,1,+33-6-12-34-56-78,1,2023-04-19
+5,Mountain View Resorts,Accommodation,1,+41-76-123-45-67,1,2023-11-30
+6,Historical Tours Inc.,Guide,1,+39-312-345-6789,1,2023-01-15
+7,Desert Safari Adventures,Transport,0,+971-50-123-4567,1,2023-08-05
+8,Tropical Paradise Hotels,Accommodation,1,+66-81-234-5678,1,2023-05-22
+9,Cultural Heritage Guides,Guide,1,+81-90-1234-5678,1,2023-12-10
+10,Northern Lights Tours,Transport,1,+354-612-3456,1,2023-03-17
+11,Beachfront Luxury Stays,Accommodation,0,+52-1-55-1234-5678,1,2023-07-29
+12,Rainforest Excursions,Guide,1,+506-8123-4567,1,2023-10-14
+13,Alpine Express,Transport,1,+43-664-123-45-67,1,2023-02-03
+14,Urban Boutique Hotels,Accommodation,1,+49-151-1234-5678,1,2023-05-19
+15,Local Insights Tours,Guide,1,+64-21-123-456,1,2023-08-25
+16,Island Hopper Ferries,Transport,1,+30-691-234-5678,1,2023-11-11
+17,Mountain Lodge Network,Accommodation,1,+1-307-555-1234,1,2023-01-28
+18,Adventure Pathfinders,Guide,0,+27-82-123-4567,1,2023-04-15
+19,Luxury Limousine Service,Transport,1,+971-55-123-4567,1,2023-07-09
+20,Boutique Ryokan Collection,Accommodation,1,+81-80-1234-5678,1,2023-10-30
+21,Wildlife Safari Experts,Guide,1,+254-712-345-678,1,2023-03-06
+22,European Rail Connections,Transport,1,+32-470-12-34-56,1,2023-06-23
+23,Eco-Friendly Lodges,Accommodation,1,+506-7123-4567,0,2023-09-14
+24,City Secrets Tours,Guide,1,+34-612-345-678,1,2023-12-01
+25,High Mountain Helicopters,Transport,0,+977-98-12345678,1,2023-02-18
+26,Lakeside Resort Chain,Accommodation,1,+1-612-555-6789,1,2023-05-07
+27,Culinary Experience Guides,Guide,1,+33-7-12-34-56-78,1,2023-08-20
+28,Classic Car Tours,Transport,1,+39-333-456-7890,1,2023-11-02
+29,Historic Castle Hotels,Accommodation,1,+44-7123-456-789,1,2023-01-08
+30,Deep Sea Diving Guides,Guide,0,+62-812-3456-7890,1,2023-04-25
+31,Premium Airport Shuttles,Transport,1,+65-9123-4567,1,2023-07-17
+32,Desert Oasis Resorts,Accommodation,1,+20-10-1234-5678,1,2023-10-05
+33,Indigenous Culture Tours,Guide,1,+52-1-33-1234-5678,1,2023-12-24
+34,Scenic Helicopter Flights,Transport,1,+64-27-123-456,0,2023-03-22
+35,Forest Treehouse Stays,Accommodation,1,+1-828-555-4321,1,2023-06-10
+36,Urban Art Walk Guides,Guide,1,+49-170-1234-567,1,2023-09-27
+37,Luxury Yacht Charters,Transport,1,+30-694-567-8901,1,2023-02-14
+38,Volcanic Hot Spring Inns,Accommodation,0,+81-70-1234-5678,1,2023-05-03
+39,Historical Battlefield Guides,Guide,1,+44-7456-789-012,1,2023-08-16
+40,Safari Vehicle Fleet,Transport,1,+27-71-234-5678,1,2023-11-21
+41,Glamping Experience Collection,Accommodation,1,+1-435-555-6789,1,2023-01-19
+42,Marine Biology Guides,Guide,1,+61-4-5678-9012,0,2023-04-03
+43,Vintage Steam Train Journeys,Transport,0,+91-98765-43210,1,2023-07-27
+44,Alpine Ski Chalets,Accommodation,1,+41-79-876-54-32,1,2023-10-19
+45,Photography Tour Guides,Guide,1,+354-891-2345,1,2023-03-10
+46,Electric Vehicle Tours,Transport,1,+47-912-34-567,1,2023-06-06
+47,Floating River Bungalows,Accommodation,1,+66-89-876-5432,1,2023-09-02
+48,Architectural Wonder Tours,Guide,1,+34-654-321-987,0,2023-12-15
+49,Mountain Bike Adventure Tours,Transport,1,+43-676-876-54-32,1,2023-02-28
+50,Ice Hotel Experiences,Accommodation,0,+46-70-123-45-67,1,2023-05-17

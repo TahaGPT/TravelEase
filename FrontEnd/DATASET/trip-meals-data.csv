@@ -1,0 +1,51 @@
+meal_id,meal_type,meal_description,dietary_options,included_in_price,venue,trip_id
+1,"Breakfast","Continental breakfast with local pastries","Vegetarian, Gluten-free",1,"Hotel Restaurant",101
+2,"Lunch","Seafood feast at local beach restaurant","Seafood-free available",1,"Coastal Delights",101
+3,"Dinner","Traditional 4-course dinner with wine pairing","Vegan option available",1,"La Maison",101
+4,"Breakfast","American-style buffet breakfast","Vegetarian, Dairy-free",1,"Hotel Restaurant",102
+5,"Lunch","Street food tour with local guide","Vegetarian, Halal",1,"City Center Markets",102
+6,"Dinner","BBQ night with live entertainment","Vegetarian option available",1,"Sunset Grill",102
+7,"Breakfast","Tropical fruit buffet and hot items","All dietary options",1,"Resort Restaurant",103
+8,"Lunch","Packed lunch for hiking excursion","All dietary options",1,"Prepared by Resort",103
+9,"Dinner","Farm-to-table dining experience","Vegetarian, Gluten-free",1,"Mountain View Farm",103
+10,"Breakfast","Himalayan breakfast specialties","Vegetarian",1,"Teahouse Lodge",104
+11,"Lunch","Packed mountain lunch","Vegetarian, Vegan",1,"On Trail",104
+12,"Dinner","Hearty trekkers meal","Vegetarian option",1,"Base Camp Restaurant",104
+13,"Breakfast","Japanese traditional breakfast","Vegetarian available",1,"Ryokan Dining Room",105
+14,"Lunch","Bento box experience","Vegetarian available",0,"Local Restaurant",105
+15,"Dinner","Kaiseki multi-course dinner","Fish-free option",1,"Hotel Restaurant",105
+16,"Breakfast","English breakfast buffet","Vegetarian, Vegan",1,"Hotel Restaurant",106
+17,"Lunch","Pub lunch with local ales","Vegetarian option",0,"Historic Pub",106
+18,"Dinner","Gourmet British cuisine","All dietary options",1,"Michelin Restaurant",106
+19,"Breakfast","Mediterranean breakfast spread","All dietary options",1,"Hotel Terrace",107
+20,"Lunch","Tapas tour with wine tasting","Vegetarian available",1,"Various Tapas Bars",107
+21,"Dinner","Seafood paella experience","Vegetarian paella available",1,"Beachfront Restaurant",107
+22,"Breakfast","Safari morning breakfast","Vegetarian, Gluten-free",1,"Lodge Restaurant",108
+23,"Lunch","Bush lunch during game drive","All dietary options",1,"National Park",108
+24,"Dinner","Barbecue under the stars","Vegetarian option",1,"Lodge Boma",108
+25,"Breakfast","Australian breakfast with barista coffee","Vegetarian, Vegan, Gluten-free",1,"Hotel Cafe",109
+26,"Lunch","Beachside seafood grill","Vegetarian option",0,"Bondi Beach Restaurant",109
+27,"Dinner","Modern Australian cuisine","All dietary options",1,"Harbour Restaurant",109
+28,"Breakfast","Nordic breakfast buffet","All dietary options",1,"Hotel Restaurant",110
+29,"Lunch","Smørrebrød tasting experience","Vegetarian available",1,"Local Cafe",110
+30,"Dinner","New Nordic cuisine tasting menu","Vegetarian option",1,"Award-winning Restaurant",110
+31,"Breakfast","Middle Eastern breakfast spread","Vegetarian, Vegan",1,"Hotel Terrace",111
+32,"Lunch","Falafel and hummus tour","All dietary options",1,"Market Area",111
+33,"Dinner","Traditional feast with entertainment","Vegetarian option",1,"Desert Camp",111
+34,"Breakfast","Tropical smoothie bowls and pastries","Vegetarian, Gluten-free",1,"Beach Resort",112
+35,"Lunch","Beach barbecue","Vegetarian, Vegan options",1,"Private Beach",112
+36,"Dinner","Sunset seafood dinner","Vegetarian option",1,"Oceanfront Restaurant",112
+37,"Breakfast","Alpine breakfast with local cheeses","Vegetarian available",1,"Mountain Lodge",113
+38,"Lunch","Mountaintop restaurant experience","Vegetarian option",0,"Panorama Restaurant",113
+39,"Dinner","Traditional fondue night","Vegetarian fondue available",1,"Chalet Restaurant",113
+40,"Breakfast","South American breakfast platter","All dietary options",1,"Hotel Restaurant",114
+41,"Lunch","Street food exploration","Vegetarian, Gluten-free options",1,"Local Market",114
+42,"Dinner","Argentinian asado experience","Vegetarian option",1,"Countryside Estancia",114
+43,"Breakfast","Greek yogurt and honey bar","Vegetarian, Gluten-free",1,"Hotel Terrace",115
+44,"Lunch","Seaside taverna meal","Vegetarian available",0,"Local Taverna",115
+45,"Dinner","Greek mezze feast","All dietary options",1,"Harbor Restaurant",115
+46,"Breakfast","Canadian breakfast with maple syrup","All dietary options",1,"Lodge Restaurant",116
+47,"Lunch","Wilderness picnic","Vegetarian, Vegan",1,"Lakeside",116
+48,"Dinner","West Coast seafood dinner","Vegetarian option",1,"Mountain View Restaurant",116
+49,"Breakfast","Indian breakfast specialties","Vegetarian, Vegan",1,"Hotel Restaurant",117
+50,"Lunch","Thali experience","Vegetarian, Vegan, Gluten-free",1,"Heritage Restaurant",117

@@ -1,0 +1,51 @@
+hotel_id,total_rooms,star_rating,Address,wheelchair_accessible,provider_id
+1,120,4,"123 Beach Blvd, Miami, FL 33139, USA",1,2
+2,85,5,"45 Park Avenue, New York, NY 10022, USA",1,5
+3,200,3,"78 Orchard Road, Singapore 238839",1,8
+4,150,4,"26 Rue de Rivoli, 75004 Paris, France",1,11
+5,70,5,"10 Victoria Street, London SW1H 0NB, UK",1,14
+6,95,3,"42 Wattle Street, Sydney NSW 2000, Australia",0,17
+7,180,4,"15 Sheikh Zayed Road, Dubai, UAE",1,20
+8,65,5,"3-7-1 Nishi-Shinjuku, Tokyo 160-0023, Japan",1,23
+9,110,3,"Calle Gran Via 28, 28013 Madrid, Spain",0,26
+10,140,4,"Via Veneto 72, 00187 Rome, Italy",1,29
+11,50,5,"5 Sharia El Corniche, Cairo 11511, Egypt",1,32
+12,220,3,"888 Brickell Plaza, Miami, FL 33131, USA",1,35
+13,75,4,"17 Bahnhofstrasse, 8001 Zurich, Switzerland",1,38
+14,160,5,"Linden-Palais, Unter den Linden 10, 10117 Berlin, Germany",1,41
+15,90,3,"125 Collins Street, Melbourne VIC 3000, Australia",0,44
+16,130,4,"101 Reykjavik Way, 101 Reykjavik, Iceland",1,47
+17,60,5,"42 Madison Ave, New York, NY 10010, USA",1,50
+18,175,3,"88 Rue du Faubourg Saint-Honoré, 75008 Paris, France",0,2
+19,100,4,"35 Kurfürstendamm, 10719 Berlin, Germany",1,5
+20,80,5,"15 Circular Quay, Sydney NSW 2000, Australia",1,8
+21,190,3,"67 Nathan Road, Tsim Sha Tsui, Hong Kong",1,11
+22,70,4,"20 Bond Street, London W1S 4PX, UK",1,14
+23,120,5,"5 Auckland Street, Auckland 1010, New Zealand",0,17
+24,220,3,"100 Las Vegas Blvd, Las Vegas, NV 89109, USA",1,20
+25,60,4,"9-4-5 Ginza, Tokyo 104-0061, Japan",1,23
+26,150,5,"Plaza del Callao 5, 28013 Madrid, Spain",1,26
+27,95,3,"Via del Corso 12, 00186 Rome, Italy",0,29
+28,180,4,"10 The Palm Jumeirah, Dubai, UAE",1,32
+29,50,5,"75 South Beach Road, Miami, FL 33139, USA",1,35
+30,110,3,"28 Löwenstrasse, 8001 Zurich, Switzerland",1,38
+31,140,4,"Charlottenstrasse 49, 10117 Berlin, Germany",1,41
+32,75,5,"75 Oxford Street, Sydney NSW 2010, Australia",0,44
+33,165,3,"15 Laugavegur, 101 Reykjavik, Iceland",1,47
+34,55,4,"123 Broadway, New York, NY 10010, USA",1,50
+35,125,5,"45 Avenue des Champs-Élysées, 75008 Paris, France",1,2
+36,90,3,"Friedrichstrasse 101, 10117 Berlin, Germany",1,5
+37,170,4,"42 Queen Street, Sydney NSW 2000, Australia",0,8
+38,65,5,"82 Middle Road, Singapore 188966",1,11
+39,130,3,"15 Hyde Park Corner, London SW1X 7TA, UK",1,14
+40,85,4,"23 Beach Road, Bondi, Sydney NSW 2026, Australia",1,17
+41,200,5,"88 The Strip, Las Vegas, NV 89109, USA",1,20
+42,70,3,"4-6-15 Roppongi, Tokyo 106-0032, Japan",0,23
+43,155,4,"Calle de Alcalá 21, 28014 Madrid, Spain",1,26
+44,45,5,"Via Condotti 8, 00187 Rome, Italy",1,29
+45,120,3,"Sheikh Mohammed bin Rashid Blvd, Dubai, UAE",1,32
+46,90,4,"1200 Collins Avenue, Miami Beach, FL 33139, USA",0,35
+47,160,5,"9 Bahnhofplatz, 8001 Zurich, Switzerland",1,38
+48,75,3,"Französische Str. 30, 10117 Berlin, Germany",1,41
+49,135,4,"88 George Street, Sydney NSW 2000, Australia",1,44
+50,60,5,"25 Harbor Street, Reykjavik 101, Iceland",0,47

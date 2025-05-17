@@ -1,0 +1,51 @@
+operator_id,company_name,email,password,registration_date,is_approved,last_login_date_,phone,admin_id
+1,Wanderlust Tours,info@wanderlusttours.com,P@ss4Wander!,2022-03-15,1,2025-04-15,+1-555-234-5678,3
+2,Adventure Quest Travel,contact@adventurequest.com,AQT_secure23!,2021-11-22,1,2025-04-18,+1-555-987-6543,2
+3,Serenity Journeys,bookings@serenity-journeys.com,S3r3n1tyN0w!,2023-01-05,1,2025-04-10,+1-555-123-4567,1
+4,Global Expeditions,info@globalexpeditions.net,Gl0b@lExp#2023,2022-07-12,1,2025-04-20,+1-555-876-5432,4
+5,Horizon Travels,contact@horizontravels.com,H0r!z0nTR2022,2022-09-30,1,2025-04-14,+1-555-345-6789,5
+6,Sunset Safaris,bookings@sunsetsafaris.com,SunS@f@ri2023!,2023-02-18,1,2025-04-19,+1-555-654-3210,3
+7,Heritage Voyages,info@heritagevoyages.org,H3r!t@g3V#2022,2022-05-20,1,2025-04-16,+1-555-789-0123,2
+8,EcoTravel Adventures,contact@ecotraveladv.com,Ec0Tr@v3l2023$,2023-03-01,1,2025-04-12,+1-555-210-9876,1
+9,Northern Lights Tours,bookings@northernlightstours.com,N0rth3rnL!ghts,2022-08-14,1,2025-04-17,+1-555-432-1098,5
+10,Pacific Odyssey,info@pacificodyssey.com,P@c1f1cOd!2022,2022-04-25,1,2025-04-11,+1-555-678-9012,4
+11,Alpine Explorers,contact@alpineexplorers.com,Alp!n3Expl0re,2023-01-18,1,2025-04-15,+1-555-345-6780,3
+12,Urban Discovery Tours,bookings@urbandiscovery.com,UrbanD!sc0v3ry,2022-06-07,1,2025-04-18,+1-555-901-2345,2
+13,Desert Nomads,info@desertnomads.com,N0m@dD3s3rt!,2022-10-12,1,2025-04-13,+1-555-567-8901,1
+14,Island Paradise Travels,contact@islandparadise.com,Is1@ndP@r@d!se,2023-03-22,1,2025-04-19,+1-555-890-1234,5
+15,Ancient Pathways,bookings@ancientpathways.org,Anc!3ntP@th$2022,2022-07-30,1,2025-04-16,+1-555-123-7890,4
+16,Coastal Voyagers,info@coastalvoyagers.com,C0@stalV0y@ge!,2022-11-15,1,2025-04-14,+1-555-456-7890,3
+17,Mountain Trek Tours,contact@mountaintrek.com,M0unta!nTr3k23,2023-02-05,1,2025-04-17,+1-555-789-4561,2
+18,Jungle Expeditions,bookings@jungleexpeditions.net,Jung13Exp!2023,2023-04-10,1,2025-04-20,+1-555-234-5671,1
+19,Cultural Heritage Tours,info@culturalheritage.org,Cu1tur@lH3r!t,2022-08-22,1,2025-04-11,+1-555-567-1234,5
+20,Blue Ocean Adventures,contact@blueoceanadv.com,Blu3Oc3@nAdv!,2022-05-09,1,2025-04-13,+1-555-890-4567,4
+21,Volcanic Trails,bookings@volcanictrails.com,V0lc@n!cTr@ils,2023-01-25,0,2025-04-15,+1-555-123-0987,3
+22,City Secrets Tours,info@citysecrets.com,C!tyS3cr3ts!,2022-09-14,1,2025-04-18,+1-555-456-0987,2
+23,Rainforest Explorers,contact@rainforestexplorers.org,R@!nF0r3st#Exp,2022-12-03,1,2025-04-12,+1-555-789-6543,1
+24,Historical Journeys,bookings@historicaljourneys.com,H!st0r!c@lJ0urn,2023-03-15,1,2025-04-19,+1-555-234-8765,5
+25,Wildlife Safaris,info@wildlifesafaris.net,W!ldL!f3S@f@ri,2022-06-20,1,2025-04-16,+1-555-567-4321,4
+26,Tropical Getaways,contact@tropicalgetaways.com,Tr0p!c@lG3t@way,2022-10-28,1,2025-04-14,+1-555-890-7654,3
+27,Arctic Explorers,bookings@arcticexplorers.com,Arct!cExpl0r3r$,2023-02-12,1,2025-04-17,+1-555-123-4321,2
+28,River Cruise Ventures,info@rivercruises.org,R!v3rCru!s3V3n,2022-07-17,1,2025-04-11,+1-555-456-7654,1
+29,Mystic Mountains Travel,contact@mysticmountains.com,Myst!cM0unt@!n,2022-11-30,1,2025-04-13,+1-555-789-0987,5
+30,Luxury Safari Collection,bookings@luxurysafaris.com,Luxur!S@f@r!23,2023-04-05,1,2025-04-18,+1-555-234-0987,4
+31,Outback Adventures,info@outbackadventures.net,0utb@ckAdv3n!,2022-05-25,1,2025-04-15,+1-555-567-8765,3
+32,Vineyard Voyages,contact@vineyardvoyages.org,V!n3y@rdV0y@g3,2022-08-07,1,2025-04-19,+1-555-890-3210,2
+33,Extreme Expeditions,bookings@extremeexpeditions.com,Extr3m3Exp3d!,2023-01-10,0,2025-04-16,+1-555-123-6543,1
+34,Historical Rail Tours,info@historicalrail.com,H!st0r!c@lR@!l,2022-10-05,1,2025-04-14,+1-555-456-3210,5
+35,Southern Charm Travels,contact@southerncharm.com,S0uth3rnCh@rm!,2022-12-18,1,2025-04-17,+1-555-789-2109,4
+36,Atlas Discovery Tours,bookings@atlasdiscovery.org,Atl@sD!sc0v3ry,2023-03-08,1,2025-04-11,+1-555-234-2109,3
+37,Nomadic Adventures,info@nomadicadventures.com,N0m@d!cAdv3n!,2022-06-15,1,2025-04-13,+1-555-567-5432,2
+38,Authentic Journeys,contact@authenticjourneys.net,Auth3nt!cJ0urn,2022-09-22,1,2025-04-18,+1-555-890-5432,1
+39,Polar Expedition Group,bookings@polarexpedition.com,P0l@rExp3d!t!0n,2023-02-28,1,2025-04-15,+1-555-123-8765,5
+40,Safari Dreams,info@safaridreams.org,S@f@r!Dr3@ms!,2022-07-05,1,2025-04-19,+1-555-456-8765,4
+41,Canyon Trek Tours,contact@canyontrek.com,C@ny0nTr3k2023!,2022-11-10,1,2025-04-16,+1-555-789-5432,3
+42,Hidden Gems Travel,bookings@hiddengems.com,H!dd3nG3ms!23,2023-04-20,1,2025-04-14,+1-555-234-5432,2
+43,Wilderness Explorers,info@wildernessexplorers.net,W!ld3rn3ssExp!,2022-08-28,1,2025-04-17,+1-555-567-2109,1
+44,Majestic Vistas Tours,contact@majesticvistas.org,M@j3st!cV!st@s,2022-05-15,1,2025-04-11,+1-555-890-2109,5
+45,Off The Beaten Path,bookings@offthebeatenpath.com,0ffB3@t3nP@th!,2022-12-23,1,2025-04-13,+1-555-123-5432,4
+46,Exotic Escapes,info@exoticescapes.com,Ex0t!cEsc@p3s!,2023-01-30,1,2025-04-18,+1-555-456-5432,3
+47,Lakeside Voyages,contact@lakesidevoyages.net,L@k3s!d3V0y@g3,2022-09-08,0,2025-04-15,+1-555-789-8765,2
+48,Hiking Horizons,bookings@hikinghorizons.org,H!k!ngH0r!z0ns,2022-10-20,1,2025-04-19,+1-555-234-8765,1
+49,Tropical Paradise Tours,info@tropicalparadise.com,Tr0p!c@lP@r@d!s3,2023-03-28,1,2025-04-16,+1-555-567-8765,5
+50,Adventure Elite,contact@adventureelite.com,Adv3ntur3El!t3!,2022-06-28,1,2025-04-14,+1-555-890-8765,4

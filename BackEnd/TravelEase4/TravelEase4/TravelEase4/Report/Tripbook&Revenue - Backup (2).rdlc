@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+	<AutoRefresh>0</AutoRefresh>
+	<ReportName>TripBookingRevenueReport</ReportName>
+
+	<!-- Report Properties -->
+	<Description>Comprehensive Trip Booking and Revenue Performance Report</Description>
+
+	<!-- DataSources -->
+	<DataSources>
+		<DataSource Name="TripBookingDataSource">
+			<ConnectionProperties>
+				<DataProvider>System.Data.SqlClient</DataProvider>
+				<ConnectString>Data Source=Rafique\sqlexpress;Initial Catalog=TravelEase;Integrated Security=True;Encrypt=False</ConnectString>
+			</ConnectionProperties>
+		</DataSource>
+	</DataSources>
+
+	<!-- DataSets -->
+	<DataSets>
+		<DataSet Name="TotalBookingsDataset">
+			<Query>
+				<DataSourceName>TripBookingDataSource</DataSourceName>
+				<CommandText>
+					SELECT
+					COUNT(booking_id) AS TotalBookings,
+					SUM(total_amount) AS TotalRevenue,
+					AVG(total_amount) AS AverageBookingValue,
+					(COUNT(CASE WHEN status = 'Canceled' THEN 1 END) * 100.0 / COUNT(booking_id)) AS CancellationRate,
+					DATEPART(month, booking_date) AS BookingMonth
+					FROM Booking
+					GROUP BY DATEPART(month, booking_date)
+				</CommandText>
+			</Query>
+			<Fields>
+				<Field Name="TotalBookings">
+					<DataField>TotalBookings</DataField>
+					<rd:TypeName>System.Int32</rd:TypeName>
+				</Field>
+				<Field Name="TotalRevenue">
+					<DataField>TotalRevenue</DataField>
+					<rd:TypeName>System.Decimal</rd:TypeName>
+				</Field>
+				<Field Name="AverageBookingValue">
+					<DataField>AverageBookingValue</DataField>
+					<rd:TypeName>System.Decimal</rd:TypeName>
+				</Field>
+				<Field Name="CancellationRate">
+					<DataField>CancellationRate</DataField>
+					<rd:TypeName>System.Decimal</rd:TypeName>
+				</Field>
+				<Field Name="BookingMonth">
+					<DataField>BookingMonth</DataField>
+					<rd:TypeName>System.Int32</rd:TypeName>
+				</Field>
+			</Fields>
+		</DataSet>
+
+		<DataSet Name="RevenueByTripCategoryDataset">
+			<Query>
+				<DataSourceName>TripBookingDataSource</DataSourceName>
+				<CommandText>
+					SELECT
+					tc.category_name AS TripCategory,
+					COUNT(b.booking_id) AS CategoryBookings,
+					SUM(b.total_amount) AS CategoryRevenue,
+					AVG(b.total_amount) AS CategoryAverageBooking
+					FROM Trip t
+					JOIN TripCategory tc ON t.category_id = tc.category_id
+					JOIN Booking b ON t.trip_id = b.trip_id
+					GROUP BY tc.category_name
+				</CommandText>
+			</Query>
+			<Fields>
+				<Field Name="TripCategory">
+					<DataField>TripCategory</DataField>
+					<rd:TypeName>System.String</rd:TypeName>
+				</Field>
+				<Field Name="CategoryBookings">
+					<DataField>CategoryBookings</DataField>
+					<rd:TypeName>System.Int32</rd:TypeName>
+				</Field>
+				<Field Name="CategoryRevenue">
+					<DataField>CategoryRevenue</DataField>
+					<rd:TypeName>System.Decimal</rd:TypeName>
+				</Field>
+				<Field Name="CategoryAverageBooking">
+					<DataField>CategoryAverageBooking</DataField>
+					<rd:TypeName>System.Decimal</rd:TypeName>
+				</Field>
+			</Fields>
+		</DataSet>
+
+		<DataSet Name="PeakBookingPeriodsDataset">
+			<Query>
+				<DataSourceName>TripBookingDataSource</DataSourceName>
+				<CommandText>
+					SELECT
+					DATEPART(month, booking_date) AS BookingMonth,
+					COUNT(booking_id) AS MonthlyBookings,
+					SUM(total_amount) AS MonthlyRevenue
+					FROM Booking
+					GROUP BY DATEPART(month, booking_date)
+					ORDER BY MonthlyBookings DESC
+				</CommandText>
+			</Query>
+			<Fields>
+				<Field Name="BookingMonth">
+					<DataField>BookingMonth</DataField>
+					<rd:TypeName>System.Int32</rd:TypeName>
+				</Field>
+				<Field Name="MonthlyBookings">
+					<DataField>MonthlyBookings</DataField>
+					<rd:TypeName>System.Int32</rd:TypeName>
+				</Field>
+				<Field Name="MonthlyRevenue">
+					<DataField>MonthlyRevenue</DataField>
+					<rd:TypeName>System.Decimal</rd:TypeName>
+				</Field>
+			</Fields>
+		</DataSet>
+	</DataSets>
+
+	<!-- Report Layout -->
+	<Body>
+		<ReportItems>
+			<!-- Total Bookings Summary -->
+			<Textbox Name="TotalBookingsSummary">
+				<Value>Total Bookings: =First(Fields!TotalBookings.Value, "TotalBookingsDataset")</Value>
+				<Style>
+					<FontSize>16pt</FontSize>
+					<FontWeight>Bold</FontWeight>
+				</Style>
+			</Textbox>
+
+			<!-- Total Revenue Chart -->
+			<Chart Name="TotalRevenueChart">
+				<DataSetName>TotalBookingsDataset</DataSetName>
+				<ChartType>Column</ChartType>
+				<ChartData>
+					<ChartSeries>
+						<SeriesGrouping>
+							<DynamicCategories>
+								<Grouping Name="BookingMonthGrouping">
+									<GroupExpressions>
+										<GroupExpression>=Fields!BookingMonth.Value</GroupExpression>
+									</GroupExpressions>
+								</Grouping>
+							</DynamicCategories>
+						</SeriesGrouping>
+						<ChartValues>
+							<Value>=Sum(Fields!TotalRevenue.Value)</Value>
+						</ChartValues>
+					</ChartSeries>
+				</ChartData>
+				<ChartTitle>
+					<Caption>Monthly Revenue</Caption>
+				</ChartTitle>
+			</Chart>
+
+			<!-- Revenue by Trip Category Pie Chart -->
+			<Chart Name="RevenueByCategoryChart">
+				<DataSetName>RevenueByTripCategoryDataset</DataSetName>
+				<ChartType>Pie</ChartType>
+				<ChartData>
+					<ChartSeries>
+						<SeriesGrouping>
+							<DynamicCategories>
+								<Grouping Name="TripCategoryGrouping">
+									<GroupExpressions>
+										<GroupExpression>=Fields!TripCategory.Value</GroupExpression>
+									</GroupExpressions>
+								</Grouping>
+							</DynamicCategories>
+						</SeriesGrouping>
+						<ChartValues>
+							<Value>=Sum(Fields!CategoryRevenue.Value)</Value>
+						</ChartValues>
+					</ChartSeries>
+				</ChartData>
+				<ChartTitle>
+					<Caption>Revenue by Trip Category</Caption>
+				</ChartTitle>
+			</Chart>
+
+			<!-- Peak Booking Periods Table -->
+			<Table Name="PeakBookingPeriodsTable">
+				<DataSetName>PeakBookingPeriodsDataset</DataSetName>
+				<TableColumns>
+					<TableColumn>
+						<Width>1in</Width>
+					</TableColumn>
+					<TableColumn>
+						<Width>1in</Width>
+					</TableColumn>
+					<TableColumn>
+						<Width>1in</Width>
+					</TableColumn>
+				</TableColumns>
+				<Header>
+					<TableRows>
+						<TableRow>
+							<TableCell>
+								<Textbox Name="MonthHeader">
+									<Value>Month</Value>
+								</Textbox>
+							</TableCell>
+							<TableCell>
+								<Textbox Name="BookingsHeader">
+									<Value>Bookings</Value>
+								</Textbox>
+							</TableCell>
+							<TableCell>
+								<Textbox Name="RevenueHeader">
+									<Value>Revenue</Value>
+								</Textbox>
+							</TableCell>
+						</TableRow>
+					</TableRows>
+				</Header>
+				<Details>
+					<TableRows>
+						<TableRow>
+							<TableCell>
+								<Textbox Name="BookingMonthCell">
+									<Value>=Fields!BookingMonth.Value</Value>
+								</Textbox>
+							</TableCell>
+							<TableCell>
+								<Textbox Name="MonthlyBookingsCell">
+									<Value>=Fields!MonthlyBookings.Value</Value>
+								</Textbox>
+							</TableCell>
+							<TableCell>
+								<Textbox Name="MonthlyRevenueCell">
+									<Value>=Fields!MonthlyRevenue.Value</Value>
+								</Textbox>
+							</TableCell>
+						</TableRow>
+					</TableRows>
+				</Details>
+			</Table>
+		</ReportItems>
+	</Body>
+
+	<!-- Report Parameters -->
+	<ReportParameters>
+		<ReportParameter Name="StartDate">
+			<DataType>DateTime</DataType>
+			<DefaultValue>
+				<Values>
+					<Value>2024-01-01</Value>
+				</Values>
+			</DefaultValue>
+			<Prompt>Start Date</Prompt>
+		</ReportParameter>
+		<ReportParameter Name="EndDate">
+			<DataType>DateTime</DataType>
+			<DefaultValue>
+				<Values>
+					<Value>2024-12-31</Value>
+				</Values>
+			</DefaultValue>
+			<Prompt>End Date</Prompt>
+		</ReportParameter>
+	</ReportParameters>
+</Report>

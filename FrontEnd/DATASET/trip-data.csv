@@ -1,0 +1,70 @@
+trip_id,title,description,destination,price_per_person,capacity,start_date,end_date,sustainability_score,trip_type,duration,min_group_size,max_group_size,views_count,conversion_rate,min_budget,max_budget,physical_intensity_level,category_id,operator_id
+101,Amazon Rainforest Explorer,"Explore the biodiversity of the Amazon rainforest with expert guides. Experience wildlife encounters, canopy walks, and indigenous community visits.",Brazil,2500,20,5/15/2025,5/25/2025,9,Adventure,10,5,20,1876,12,2000,3500,3,3,18
+102,Tuscany Wine Tour,"Experience Italy's finest vineyards, with tastings at renowned wineries and stays in rustic countryside villas.",Italy,1800,16,6/10/2025,6/17/2025,7,Culinary,7,4,16,2345,15,1500,2500,1,5,6
+103,Machu Picchu Trek,Hike the Inca Trail to the ancient ruins of Machu Picchu with experienced local guides.,Peru,2200,12,7/5/2025,7/15/2025,8,Hiking,10,6,12,3421,18,2000,3000,4,3,1
+104,Northern Lights Safari,Chase the Aurora Borealis across the Arctic Circle in specialized vehicles with photography workshops.,Iceland,3200,10,9/20/2025,9/27/2025,6,Photography,7,4,10,1594,10,2800,3800,2,2,9
+105,Serengeti Migration,Witness the great migration of wildebeest and zebra across the Serengeti plains with luxury safari accommodations.,Tanzania,4500,8,8/10/2025,8/20/2025,7,Wildlife,10,4,8,2876,14,4000,5500,2,4,25
+106,Kyoto Cultural Immersion,"Experience traditional Japanese culture with tea ceremonies, temple visits, and cooking classes in historic Kyoto.",Japan,2800,14,6/18/2025,6/28/2025,8,Cultural,10,6,14,1987,11,2500,3500,1,1,3
+107,Greek Island Hopping,"Sail through the Aegean Sea, visiting Santorini, Mykonos, and lesser-known islands with local cuisine experiences.",Greece,2100,15,7/15/2025,7/25/2025,6,Cruise,10,6,15,2432,16,1800,2800,2,6,1
+108,Himalayan Expedition,Trek through remote Himalayan villages and experience breathtaking mountain landscapes.,Nepal,2900,10,5/25/2025,6/8/2025,9,Trekking,14,5,10,1789,9,2500,3500,5,3,7
+109,Australian Outback Discovery,"Journey through Australia's red center, exploring Aboriginal heritage sites and unique desert ecosystems.",Australia,3600,12,8/15/2025,8/28/2025,7,Adventure,13,6,12,1543,8,3200,4200,3,4,20
+110,Paris to Provence,"Experience the best of France from city to countryside, with food and wine experiences throughout.",France,2400,16,6/5/2025,6/15/2025,6,Culinary,10,6,16,3201,17,2000,3000,1,5,14
+111,Bali Spiritual Retreat,"Connect with Balinese spiritual traditions through meditation, yoga, and temple ceremonies.",Indonesia,1900,14,7/20/2025,7/30/2025,8,Wellness,10,6,14,2187,13,1600,2500,2,7,3
+112,Costa Rican Biodiversity,"Explore rainforests, cloud forests, and coastal ecosystems with naturalist guides.",Costa Rica,2300,18,5/10/2025,5/20/2025,9,Ecotourism,10,6,18,2654,15,2000,3000,3,4,8
+113,Morocco Desert Adventure,Journey from Marrakech to the Sahara with camel treks and nights under the stars in Berber camps.,Morocco,1950,16,9/12/2025,9/22/2025,7,Adventure,10,6,16,1897,12,1700,2500,3,2,13
+114,Scottish Highlands Whisky Tour,Visit historic distilleries while exploring the rugged beauty of the Scottish Highlands.,Scotland,2200,12,6/20/2025,6/28/2025,6,Culinary,8,5,12,1543,10,1900,2800,2,5,1
+115,Cambodia Heritage Trail,"Explore ancient Khmer temples, including Angkor Wat, with expert archaeological guides.",Cambodia,2000,15,8/5/2025,8/15/2025,7,Historical,10,6,15,1876,11,1800,2600,2,1,3
+116,New Zealand Adventure,Experience adrenaline activities and breathtaking landscapes throughout both islands.,New Zealand,3800,12,7/10/2025,7/24/2025,8,Adventure,14,5,12,2987,16,3400,4500,4,3,2
+117,Egyptian Nile Cruise,Sail the Nile visiting ancient temples and tombs with Egyptologist guides.,Egypt,2800,20,10/5/2025,10/15/2025,6,Historical,10,8,20,3456,18,2500,3500,2,1,24
+118,Alpine Ski Adventure,Experience world-class skiing in the Swiss Alps with expert instructors for all skill levels.,Switzerland,3200,16,1/15/2026,1/25/2026,5,Winter Sports,10,6,16,1765,9,2800,4000,4,3,17
+119,Alaskan Wilderness Expedition,Explore remote landscapes with wildlife viewing and glacier hikes in America's last frontier.,Alaska,4200,10,6/15/2025,6/27/2025,8,Wilderness,12,5,10,1432,8,3800,5000,4,4,27
+120,Maldives Marine Life,Snorkel and dive among vibrant coral reefs while staying in overwater bungalows.,Maldives,5500,8,9/10/2025,9/20/2025,7,Beach,10,2,8,2198,13,5000,6500,2,6,30
+121,Portuguese Food & Wine,Journey through Portugal's diverse culinary regions with tastings and cooking workshops.,Portugal,2100,14,5/20/2025,5/30/2025,7,Culinary,10,6,14,1987,14,1800,2700,1,5,22
+122,Amazonian Wildlife Photography,Specialized wildlife photography tour with professional photographers and custom viewing platforms.,Brazil,3400,8,7/25/2025,8/5/2025,9,Photography,11,4,8,1345,7,3000,4000,3,2,23
+123,Vietnam Cultural Odyssey,Travel from Hanoi to Ho Chi Minh City experiencing diverse regional cultures and cuisines.,Vietnam,1900,16,6/8/2025,6/20/2025,8,Cultural,12,6,16,2435,15,1700,2500,2,1,26
+124,Canadian Rockies Explorer,Discover the pristine wilderness and wildlife of Banff and Jasper National Parks.,Canada,2800,14,8/18/2025,8/28/2025,8,Wilderness,10,5,14,1876,11,2500,3500,3,4,28
+125,South African Safari,Explore multiple game reserves with chances to see the Big Five in their natural habitat.,South Africa,3900,10,7/12/2025,7/22/2025,7,Wildlife,10,4,10,2543,16,3500,4800,2,4,40
+126,Galapagos Island Expedition,Observe unique wildlife species with naturalist guides across multiple islands.,Ecuador,4800,12,9/8/2025,9/18/2025,9,Ecotourism,10,6,12,1987,12,4200,5500,3,4,8
+127,Irish Countryside Cycling,Pedal through picturesque villages and coastal landscapes with stays in local guesthouses.,Ireland,1850,14,6/15/2025,6/22/2025,8,Cycling,7,6,14,1543,9,1600,2200,3,3,32
+128,Patagonian Wilderness Trek,Hike through some of Earth's most dramatic landscapes with experienced mountain guides.,Argentina/Chile,3600,10,11/10/2025,11/22/2025,8,Trekking,12,5,10,1654,8,3200,4200,5,3,33
+129,Kerala Backwaters Cruise,Navigate peaceful waterways experiencing traditional villages and ayurvedic treatments.,India,1800,16,10/15/2025,10/25/2025,7,Cultural,10,6,16,1876,13,1500,2300,1,6,36
+130,Volcanic Iceland,"Explore lava fields, hot springs, and volcanic landscapes with geology experts.",Iceland,2700,12,7/5/2025,7/15/2025,8,Adventure,10,5,12,1765,10,2400,3200,3,2,9
+131,Spanish Culinary Tour,Journey through Spain's diverse culinary regions sampling regional specialties and wines.,Spain,2300,14,6/20/2025,6/30/2025,7,Culinary,10,6,14,2345,16,2000,2800,1,5,10
+132,Thailand Island Hopping,Experience the diverse beaches and marine life of Thailand's most beautiful islands.,Thailand,1950,18,11/10/2025,11/20/2025,6,Beach,10,6,18,2876,15,1700,2500,2,6,11
+133,Ancient Greece Discovery,Visit archaeological sites throughout mainland Greece with expert historical guides.,Greece,2400,16,5/18/2025,5/28/2025,7,Historical,10,6,16,1987,12,2100,2900,2,1,7
+134,Montana Dude Ranch,Experience authentic western ranch life with horseback riding and outdoor adventures.,USA,2800,14,8/10/2025,8/17/2025,6,Adventure,7,5,14,1432,8,2500,3300,3,3,41
+135,Jordan Historical Journey,"Explore Petra, Wadi Rum, and ancient historical sites with cultural experiences.",Jordan,2600,15,9/15/2025,9/25/2025,7,Historical,10,6,15,1876,11,2300,3100,3,1,12
+136,Norwegian Fjords Cruise,Navigate dramatic fjords while experiencing Nordic culture and cuisine.,Norway,3200,20,6/25/2025,7/5/2025,7,Cruise,10,8,20,2198,14,2800,3800,1,6,19
+137,Cuban Cultural Immersion,"Experience authentic Cuban culture through music, dance, and community connections.",Cuba,2100,12,7/15/2025,7/25/2025,8,Cultural,10,5,12,1654,10,1800,2600,2,1,15
+138,Namibian Desert Safari,Explore dramatic desert landscapes and wildlife with sustainable safari operations.,Namibia,3400,10,8/12/2025,8/22/2025,9,Wildlife,10,4,10,1345,7,3000,4000,3,4,31
+139,Sri Lankan Heritage,"Discover ancient cities, tea plantations, and wildlife reserves across this diverse island.",Sri Lanka,1950,14,10/10/2025,10/22/2025,8,Cultural,12,6,14,1765,11,1700,2500,2,1,38
+140,Yellowstone & Grand Tetons,Experience America's iconic national parks with wildlife viewing and geothermal features.,USA,2700,16,7/8/2025,7/18/2025,8,Wilderness,10,6,16,2345,15,2400,3200,3,4,44
+141,Croatian Island Sailing,"Navigate the Adriatic coast, visiting historic ports and hidden bays.",Croatia,2300,12,6/15/2025,6/25/2025,7,Cruise,10,5,12,1987,13,2000,2800,2,6,5
+142,Peruvian Culinary Journey,Experience diverse regional cuisines from Lima to Cusco with cooking workshops.,Peru,2200,14,9/10/2025,9/20/2025,7,Culinary,10,6,14,1876,12,1900,2700,1,5,16
+143,Finnish Lapland Winter,"Experience dog sledding, northern lights, and stay in glass igloos under the Arctic sky.",Finland,3500,10,1/20/2026,1/30/2026,8,Winter Sports,10,4,10,1543,9,3100,4200,3,3,21
+144,Malaysian Borneo Adventure,Explore rainforests with orangutan encounters and indigenous community visits.,Malaysia,2800,12,7/20/2025,7/30/2025,9,Ecotourism,10,5,12,1432,8,2500,3300,3,4,39
+145,Tuscany Cycling Tour,Pedal through vineyard-covered hills with stays in historic villages and wine tastings.,Italy,2200,14,6/5/2025,6/15/2025,7,Cycling,10,6,14,1876,13,1900,2700,3,3,6
+146,Mongolian Nomadic Experience,Live with nomadic families in the steppes and learn traditional practices.,Mongolia,2500,10,7/12/2025,7/22/2025,9,Cultural,10,5,10,1345,7,2200,3000,4,1,45
+147,Turkish Treasures,"Explore Istanbul, Cappadocia, and the Mediterranean coast with cultural experiences.",Turkey,2100,16,9/5/2025,9/17/2025,7,Historical,12,6,16,1987,12,1800,2600,2,1,46
+148,Madagascar Wildlife Expedition,Discover unique species found nowhere else with expert naturalist guides.,Madagascar,3800,10,10/10/2025,10/22/2025,9,Wildlife,12,5,10,1432,7,3400,4500,3,4,50
+149,Belgian Beer Tour,Explore historic breweries and abbeys while sampling world-renowned Belgian beers.,Belgium,1950,14,6/8/2025,6/15/2025,6,Culinary,7,6,14,1654,10,1700,2300,1,5,43
+150,Chilean Wine Country,Experience Chile's premier wine regions with tastings and vineyard tours.,Chile,2300,12,10/15/2025,10/25/2025,7,Culinary,10,5,12,1876,12,2000,2800,2,5,35
+151,Andean Peaks Adventure,"Trek through the majestic Andes mountains, exploring remote villages and stunning landscapes.",Peru,3100,12,11/5/2025,11/15/2025,8,Trekking,10,5,12,1450,9,2800,3500,4,3,51
+152,Caribbean Sailing Escape,"Sail the turquoise waters of the Caribbean, visiting secluded islands and enjoying vibrant marine life.",Bahamas,4200,10,12/1/2025,12/10/2025,7,Cruise,9,4,10,1580,10,3900,4500,2,6,52
+153,Patagonian Glacier Expedition,Explore the breathtaking glaciers of Patagonia with expert guides and comfortable accommodations.,Argentina,3700,14,12/15/2025,12/25/2025,9,Adventure,10,6,14,1720,11,3400,4000,3,4,53
+154,Ancient Silk Road Journey,"Traverse the historic Silk Road, discovering ancient cities and rich cultural heritage.",Uzbekistan,2900,16,1/10/2026,1/20/2026,8,Cultural,10,6,16,1600,10,2600,3200,2,1,54
+155,Arctic Wildlife Safari,"Experience the unique wildlife of the Arctic, including polar bears and walruses, in their natural habitat.",Norway,4500,8,2/5/2026,2/15/2026,9,Wildlife,10,4,8,1500,9,4200,4800,3,4,55
+156,Jordan Desert Trek,"Hike through the stunning deserts of Jordan, visiting Petra and Wadi Rum.",Jordan,2800,12,3/1/2026,3/10/2026,7,Trekking,9,5,12,1550,10,2500,3100,3,3,56
+157,Alpine Hiking Retreat,Enjoy the serene beauty of the Alps with guided hikes and cozy mountain lodges.,Switzerland,3300,10,3/20/2026,3/30/2026,8,Hiking,10,4,10,1620,11,3000,3600,4,3,57
+158,South Pacific Island Hopper,Discover the diverse cultures and landscapes of the South Pacific islands.,Fiji,4000,14,4/5/2026,4/15/2026,8,Cruise,10,6,14,1700,12,3700,4300,2,6,58
+159,Canadian Wilderness Canoe Trip,Paddle through pristine lakes and rivers in the Canadian wilderness with expert guides.,Canada,3100,12,4/20/2026,4/30/2026,9,Adventure,10,5,12,1480,9,2800,3400,4,4,59
+160,Greek Mythology Tour,"Explore ancient sites of Greek mythology, including Athens, Delphi, and Olympia.",Greece,2700,16,5/10/2026,5/20/2026,7,Historical,10,6,16,1650,10,2400,3000,2,1,60
+161,New Zealand South Island Explorer,"Experience the natural wonders of New Zealand's South Island, from fjords to mountains.",New Zealand,3900,14,5/25/2026,6/5/2026,8,Adventure,11,6,14,1750,11,3600,4200,4,3,61
+162,Italian Lakes and Mountains,Discover the beauty of Italy's northern lakes and the surrounding Alps.,Italy,3200,12,6/10/2026,6/20/2026,7,Cultural,10,5,12,1600,10,2900,3500,3,1,62
+163,Peruvian Amazon Expedition,Explore the rich biodiversity of the Peruvian Amazon with expert naturalists.,Peru,3400,10,6/25/2026,7/5/2026,9,Ecotourism,10,4,10,1520,9,3100,3700,3,4,63
+164,Scandinavian Capitals Tour,"Visit the vibrant capitals of Scandinavia: Copenhagen, Oslo, and Stockholm.",Denmark/Sweden/Norway,2800,16,7/10/2026,7/20/2026,7,Cultural,10,6,16,1680,10,2500,3100,2,1,64
+165,Australian Great Barrier Reef Dive,Dive into the world's largest coral reef system with experienced instructors.,Australia,4500,8,7/25/2026,8/5/2026,8,Adventure,11,4,8,1580,9,4200,4800,4,4,65
+166,Spanish Flamenco and Food Tour,Experience the passion of flamenco and the flavors of Spanish cuisine.,Spain,2900,14,8/10/2026,8/20/2026,7,Culinary,10,6,14,1620,10,2600,3200,2,5,66
+167,Alaskan Glacier Cruise,"Sail through Alaska's icy waters, witnessing majestic glaciers and wildlife.",USA,4000,12,8/25/2026,9/5/2026,8,Cruise,11,5,12,1700,11,3700,4300,3,6,67
+168,Irish Music and Heritage Tour,Immerse yourself in Ireland's rich musical traditions and historical sites.,Ireland,2700,14,9/10/2026,9/20/2026,7,Cultural,10,6,14,1550,10,2400,3000,2,1,68
+169,Japanese Cherry Blossom Journey,Witness the beauty of cherry blossoms across Japan's iconic cities.,Japan,3500,16,9/25/2026,10/5/2026,8,Cultural,10,6,16,1650,11,3200,3800,2,1,
