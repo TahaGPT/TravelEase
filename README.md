@@ -1,6 +1,4 @@
-Here is the content formatted exactly as a `README.md` file (with Markdown syntax):
 
-```markdown
 # 🌍 TravelEase – Comprehensive Travel Management Platform
 
 **Course**: CS2005: Database Systems (Spring 2025)  
